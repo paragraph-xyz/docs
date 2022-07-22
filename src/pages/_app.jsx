@@ -18,11 +18,20 @@ const navigation = [
     title: 'Core concepts',
     links: [
       { title: 'Creating posts', href: '/docs/creating-posts' },
+      { title: 'Sending newsletters', href: '/docs/sending-newsletters' },
       { title: 'Customizing your publication', href: '/docs/customizing-your-publication' },
       { title: 'Adding team members', href: '/docs/adding-team-members' },
       { title: 'Token-gated content', href: '/docs/token-gated-content' },
     ],
   },
+
+  {
+    title: 'Developers',
+    links: [
+      { title: 'Overview', href: '/docs/development' },
+    ],
+  },
+
 ]
 
 function getNodeText(node) {

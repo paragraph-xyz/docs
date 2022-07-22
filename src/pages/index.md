@@ -1,10 +1,10 @@
 ---
-title: Getting started
-pageTitle: CacheAdvance - Never miss the cache again.
-description: Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.
+title: Overview
+pageTitle: Paragraph - web3 newsletters & publishing
+description: Learn how to publish
 ---
 
-Learn how to get CacheAdvance set up in your project in under thirty minutes or it's free. {% .lead %}
+Welcome to Paragraph. This documentation teaches you everything you need to know about web3 newsletters & publishing. {% .lead %}
 
 {% link-grid %}
 
