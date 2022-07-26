@@ -3,8 +3,7 @@ import Link from 'next/link'
 import { useRouter } from 'next/router'
 import clsx from 'clsx'
 
-import { Hero } from '@/components/Hero'
-import { Logo } from '@/components/Logo'
+import  { Logo  } from '@/components/Logo'
 import { MobileNavigation } from '@/components/MobileNavigation'
 import { Navigation } from '@/components/Navigation'
 import { Prose } from '@/components/Prose'
@@ -43,7 +42,7 @@ function Header({ navigation }) {
         <Link href="/">
           <a className="block w-10 overflow-hidden lg:w-auto">
             <span className="sr-only">Home page</span>
-            <Logo />
+            <Logo className="h-12 w-auto"/>
           </a>
         </Link>
       </div>
@@ -52,7 +51,7 @@ function Header({ navigation }) {
       </div>
       <div className="relative flex basis-0 justify-end space-x-6 sm:space-x-8 md:flex-grow">
         <ThemeSelector className="relative z-10" />
-        <Link href="https://github.com">
+        <Link href="https://github.com/paragraph-xyz/docs">
           <a className="group">
             <span className="sr-only">GitHub</span>
             <svg

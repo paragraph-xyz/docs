@@ -10,14 +10,13 @@ const navigation = [
   {
     title: 'Introduction',
     links: [
-      { title: 'Getting started', href: '/' },
-      { title: 'Installation', href: '/docs/installation' },
+      { title: 'Overview ', href: '/' },
     ],
   },
   {
     title: 'Core concepts',
     links: [
-      { title: 'Creating posts', href: '/docs/creating-posts' },
+      { title: 'Publishing posts', href: '/docs/creating-posts' },
       { title: 'Sending newsletters', href: '/docs/sending-newsletters' },
       { title: 'Customizing your publication', href: '/docs/customizing-your-publication' },
       { title: 'Adding team members', href: '/docs/adding-team-members' },
@@ -28,7 +27,7 @@ const navigation = [
   {
     title: 'Developers',
     links: [
-      { title: 'Overview', href: '/docs/development' },
+      { title: 'Building on top of Paragraph', href: '/docs/development' },
     ],
   },
 
