@@ -24,7 +24,7 @@ Your **body text** is where your actual post content goes. Press `/` and insert 
 
 Any text you type here is saved automatically -- no need to perform a manual save.
 
-You can switch between WYSIWYG and raw markdown editing by using the toggle at the bottom.
+You can switch between [WYSIWYG](https://www.techtarget.com/whatis/definition/WYSIWYG-what-you-see-is-what-you-get#:~:text=A%20WYSIWYG%20(pronounced%20%22wiz%2D,see%20is%20what%20you%20get%22.) and raw [markdown](https://www.markdownguide.org/getting-started/) editing by using the toggle at the bottom.
 
 You can also modify your post settings by clicking the gear at the top right. Choose a cover image, modify the post slug, and add a friendly post preview.
 
@@ -40,7 +40,7 @@ You can even [token-gate](/docs/token-gated-content) individual communities!
 
 ## SEO
 
-Paragraph is heavily optimized for SEO.
+Paragraph is heavily optimized for SEO, which will help your publication get discovered on search engines.
 
 * We render everything statically. This means ultra-fast page loading, and no need to pull in information via APIs on page load.
 * All uploaded images are properly resized and optimized using [next/image](https://nextjs.org/docs/api-reference/next/image). On page load before the image is rendered, they're blurred, preventing layout shift.
