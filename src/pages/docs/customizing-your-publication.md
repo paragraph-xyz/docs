@@ -24,7 +24,7 @@ In the future, you'll be able to change fonts and perform even more customizatio
 
 ## Custom domains
 
-Purchase custom domain functionality for a one-time fee of $50. After this is unlocked for your account, you can use any domain in your possession for your Paragraph newsletter.
+Custom domains give your publication polish and help with SEO discovery. For a one-time $50 fee, you can purchase a custom domain directly from directly within Paragraph. After this is unlocked for your account, you can use any domain in your possession for your Paragraph newsletter.
 
 ## Analytics
 
