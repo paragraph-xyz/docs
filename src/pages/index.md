@@ -4,25 +4,27 @@ pageTitle: Paragraph - web3 newsletters & publishing
 description: Learn how to publish
 ---
 
-Welcome to Paragraph. This documentation teaches you everything you need to know about creating a web3 newsletter, building your community, and token-gating access. {% .lead %}
+Welcome to Paragraph. This documentation teaches you everything you need to know about creating a web3 newsletter, building your community, and token-gating access to your content. {% .lead %}
 
 {% link-grid %}
 
-{% link-grid-link title="Publishing posts" icon="installation" href="/docs/creating-posts" description="Learn how to create your first post." /%}
+{% link-grid-link title="Publish posts" icon="installation" href="/docs/creating-posts" description="Learn how to create your first post." /%}
 
-{% link-grid-link title="Sending newsletters" icon="presets" href="/docs/sending-newsletters" description="Learn how newsletter delivery works." /%}
+{% link-grid-link title="Send newsletters" icon="presets" href="/docs/sending-newsletters" description="Learn how newsletter delivery works." /%}
 
-{% link-grid-link title="Customizing your publication" icon="plugins" href="/docs/customizing-your-publication" description="Get a custom domain, set up analytics, or change your theme." /%}
+{% link-grid-link title="Customize your publication" icon="plugins" href="/docs/customizing-your-publication" description="Get a custom domain, set up analytics, or change your theme." /%}
 
-{% link-grid-link title="Token-gating content" icon="theming" href="/docs/token-gated-content" description="Use an existing NFT, or mint your own, and send token-gated newsletters." /%}
+{% link-grid-link title="Token-gate your content" icon="theming" href="/docs/token-gated-content" description="Use an existing NFT, or mint your own, and send token-gated newsletters." /%}
 
 {% /link-grid %}
 
 Any feedback or feature requests? Drop by our [Discord](https://paragraph.xyz/discord) or email hello@paragraph.xyz.
 
 ---
-
-## Getting help & providing feedback
+<!---
+Suggestion to create the Get help & provide feedback section as a unique page in the Introduction section. I think it makes sense to separate from Overview since the user tasks / needs are different for each page. Overview is informative while Help/feedback is task-driven and action-oriented.
+--->
+## Get help & provide feedback
 
 Encountering issues or need additional help? No problem.
 
