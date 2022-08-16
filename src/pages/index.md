@@ -18,7 +18,7 @@ Welcome to Paragraph. This documentation teaches you everything you need to know
 
 {% /link-grid %}
 
-Any feedback or feature requests? Drop by our [Discord](https://paragraph.xyz/discord) or email hello@paragraph.xyz.
+Any feedback or feature requests? Drop by our [Discord](https://paragraph.xyz/discord) or email [hello@paragraph.xyz](mailto:hello@paragraph.xyz).
 
 ---
 <!---
@@ -42,4 +42,4 @@ We love to chat!
 
 Follow us on [Twitter](https://twitter.com/paragraph_xyz) or drop by our [Discord](https://paragraph.xyz/discord) and say hello!
 
-We're also responsive via email - reach out to hello@paragraph.xyz and we'll get back ASAP.
+We're also responsive via email - reach out to [hello@paragraph.xyz](mailto:hello@paragraph.xyz) and we'll get back ASAP.
