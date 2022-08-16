@@ -9,28 +9,28 @@ import '@/styles/tailwind.css'
 const navigation = [
   {
     title: 'Introduction',
-    links: [
-      { title: 'Overview ', href: '/' },
-    ],
+    links: [{ title: 'Overview ', href: '/' }],
   },
   {
-    title: 'Core concepts',
+    title: 'Core Concepts',
     links: [
-      { title: 'Publishing posts', href: '/docs/creating-posts' },
-      { title: 'Sending newsletters', href: '/docs/sending-newsletters' },
-      { title: 'Customizing your publication', href: '/docs/customizing-your-publication' },
-      { title: 'Adding team members', href: '/docs/adding-team-members' },
-      { title: 'Token-gated content', href: '/docs/token-gated-content' },
+      { title: 'Publishing Posts', href: '/docs/creating-posts' },
+      { title: 'Sending Newsletters', href: '/docs/sending-newsletters' },
+      {
+        title: 'Customizing Your Publication',
+        href: '/docs/customizing-your-publication',
+      },
+      { title: 'Adding Team Members', href: '/docs/adding-team-members' },
+      { title: 'Token-Gated Content', href: '/docs/token-gated-content' },
     ],
   },
 
   {
     title: 'Developers',
     links: [
-      { title: 'Building on top of Paragraph', href: '/docs/development' },
+      { title: 'Building on Top of Paragraph', href: '/docs/development' },
     ],
   },
-
 ]
 
 function getNodeText(node) {

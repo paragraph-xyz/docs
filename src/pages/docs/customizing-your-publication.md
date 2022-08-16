@@ -1,5 +1,5 @@
 ---
-title: Customizing your publication
+title: Customizing Your Publication
 description: Truly make your publication your own.
 ---
 
@@ -7,7 +7,7 @@ Paragraph provides a handful of tools to customize your publication and truly ma
 
 ---
 
-## Adding links
+## Adding Links
 
 Links are used to organize your publication. Links are displayed above your posts on your homepage. You can link to...
 
@@ -22,7 +22,7 @@ Customize the background and foreground colors of your publication.
 In the future, you'll be able to change fonts and perform even more customization.
 
 
-## Custom domains
+## Custom Domains
 
 Custom domains give your publication polish and help with SEO discovery. For a one-time $50 fee, you can purchase a custom domain directly from directly within Paragraph. After this is unlocked for your account, you can use any domain in your possession for your Paragraph newsletter.
 
