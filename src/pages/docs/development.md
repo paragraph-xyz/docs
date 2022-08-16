@@ -3,7 +3,7 @@ title: Developers Overview
 description: Create your first post.
 ---
 
-We love composability. Interested in building on top of Paragraph? Join our Discord or shoot an email to dev@paragraph.xyz for help.
+We love composability. Interested in building on top of Paragraph? Join our Discord or shoot an email to [dev@paragraph.xyz](mailto:dev@paragraph.xyz) for help.
 
 ---
 
