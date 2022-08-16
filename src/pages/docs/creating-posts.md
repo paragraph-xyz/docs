@@ -1,5 +1,5 @@
 ---
-title: Publishing posts
+title: Publishing Posts
 description: Create your first post.
 ---
 

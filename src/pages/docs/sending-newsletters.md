@@ -1,5 +1,5 @@
 ---
-title: Sending newsletters.
+title: Sending Newsletters.
 description: Deliver newsletters directly ro your readers.
 ---
 
@@ -7,7 +7,7 @@ Paragraph provides tooling to send newsletters directly to your readers.
 
 ---
 
-## Email newsletter delivery
+## Email Newsletter Delivery
 
 Before you publish a post, you can optionally send it as a newsletter to your subscribers.
 
@@ -19,23 +19,23 @@ If you're publishing [in a community](/docs/creating-posts#communities), only us
 
 If your community is [token-gated,](/docs/token-gated-content) your readers need to hold your required tokens in order to receive the newsletter. This is checked every time a newsletter is delivered (at delivery-time), ensuring that your readers truly hold the requiured tokens for access.
 
-## Wallet newsletter delivery
+## Wallet Newsletter Delivery
 
 We're actively working with the [XMTP team](https://xmtp.com) to deliver newsletters entirely on-chain via the XMTP protocol - no email needed.
 
 Until this is launched, we require email for newsletter delivery.
 
-## Managing subscribers
+## Managing Subscribers
 
 On your Paragraph [subscriber settings](https://paragraph.xyz/app/subscribers), you can view or remove your subscribers. You can also add new subscribers manually.
 
-### Importing subscribers
+### Importing Subscribers
 
 You can also import subscribers via CSV. This is helpful if you already have a Substack or Revue email list export.
 
 Visit your Paragraph [import/export settings](https://paragraph.xyz/settings/publication/import-export), and click `Import subscribers`. Your CSV file should have an `email` column, and optionally a `created_at` column.
 
-## Email signup forms
+## Email Signup Forms
 
 You can link to or embed an email signup form on your own personal website.
 

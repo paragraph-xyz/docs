@@ -1,10 +1,10 @@
 ---
 title: Overview
-pageTitle: Paragraph - web3 newsletters & publishing
+pageTitle: Paragraph - Web3 newsletters & publishing
 description: Learn how to publish
 ---
 
-Welcome to Paragraph. This documentation teaches you everything you need to know about creating a web3 newsletter, building your community, and token-gating access to your content. {% .lead %}
+Welcome to Paragraph. This documentation teaches you everything you need to know about creating a Web3 newsletter, building your community, and token-gating access to your content. {% .lead %}
 
 {% link-grid %}
 
@@ -24,19 +24,19 @@ Any feedback or feature requests? Drop by our [Discord](https://paragraph.xyz/di
 <!---
 Suggestion to create the Get help & provide feedback section as a unique page in the Introduction section. I think it makes sense to separate from Overview since the user tasks / needs are different for each page. Overview is informative while Help/feedback is task-driven and action-oriented.
 --->
-## Get help & provide feedback
+## Get Help & Provide Feedback
 
 Encountering issues or need additional help? No problem.
 
-### Submit feature requests
+### Submit Feature Requests
 
 We have a public feedback board at [https://feedback.paragraph.xyz](https://feedback.paragraph.xyz). Submit new feature requests, upvote others, and leave comments.
 
-### Improve our documentation
+### Improve Our Documentation
 
 This documentation is 100% open source. Open a pull request on [our Github repo](https://github.com/paragraph-xyz/docs) for improvements or clarifications.
 
-### Join the community
+### Join The Community
 
 We love to chat!
 

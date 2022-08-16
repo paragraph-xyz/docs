@@ -1,6 +1,6 @@
 # Paragraph Docs
 
-Paragraph is a web3 newsletter & publishing platform. This repo is documentation for Paragraph.
+Paragraph is a Web3 newsletter & publishing platform. This repo is documentation for Paragraph.
 
 ## Getting started
 
