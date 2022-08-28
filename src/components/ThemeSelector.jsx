@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'react'
 import { Listbox } from '@headlessui/react'
 import clsx from 'clsx'
+import { LogoLight } from './LogoLight'
+import { Logo } from './Logo'
 
 const themes = [
   { name: 'Light', value: 'light', icon: LightIcon },
@@ -54,10 +56,23 @@ function SystemIcon(props) {
 
 export function ThemeSelector(props) {
   let [selectedTheme, setSelectedTheme] = useState()
+  const { imglogo, ...rest } = props
 
   useEffect(() => {
     if (selectedTheme) {
       document.documentElement.setAttribute('data-theme', selectedTheme.value)
+      if (selectedTheme.value === 'dark') {
+        imglogo(<LogoLight className="h-12 w-auto" />)
+      } else if (selectedTheme.value === 'light') {
+        imglogo(<Logo className="h-12 w-auto" />)
+      } else if (
+        window.matchMedia &&
+        window.matchMedia('(prefers-color-scheme: dark)').matches
+      ) {
+        imglogo(<LogoLight className="h-12 w-auto" />)
+      } else {
+        imglogo(<Logo className="h-12 w-auto" />)
+      }
     } else {
       setSelectedTheme(
         themes.find(
@@ -73,7 +88,7 @@ export function ThemeSelector(props) {
       as="div"
       value={selectedTheme}
       onChange={setSelectedTheme}
-      {...props}
+      {...rest}
     >
       <Listbox.Label className="sr-only">Theme</Listbox.Label>
       <Listbox.Button className="flex h-6 w-6 items-center justify-center rounded-lg shadow-md shadow-black/5 ring-1 ring-black/5 dark:bg-slate-700 dark:ring-inset dark:ring-white/5">

@@ -4,6 +4,7 @@ import { useRouter } from 'next/router'
 import clsx from 'clsx'
 
 import  { Logo  } from '@/components/Logo'
+import { LogoLight } from './LogoLight'
 import { MobileNavigation } from '@/components/MobileNavigation'
 import { Navigation } from '@/components/Navigation'
 import { Prose } from '@/components/Prose'
@@ -12,6 +13,7 @@ import { ThemeSelector } from '@/components/ThemeSelector'
 
 function Header({ navigation }) {
   let [isScrolled, setIsScrolled] = useState(false)
+  const [imgLogo, setImgLogo] = useState()
 
   useEffect(() => {
     function onScroll() {
@@ -21,6 +23,17 @@ function Header({ navigation }) {
     window.addEventListener('scroll', onScroll)
     return () => {
       window.removeEventListener('scroll', onScroll)
+    }
+  }, [])
+
+  useEffect(() => {
+    if (
+      window.matchMedia &&
+      window.matchMedia('(prefers-color-scheme: dark)').matches
+    ) {
+      setImgLogo(<LogoLight className="h-12 w-auto" />)
+    } else {
+      setImgLogo(<Logo className="h-12 w-auto" />)
     }
   }, [])
 
@@ -42,15 +55,13 @@ function Header({ navigation }) {
         <Link href="/">
           <a className="block w-10 overflow-hidden lg:w-auto">
             <span className="sr-only">Home page</span>
-            <Logo className="h-12 w-auto"/>
+            {imgLogo}
           </a>
         </Link>
       </div>
-      <div className="-my-5 mr-6 sm:mr-8 md:mr-0">
-        {/*  <Search />*/}
-      </div>
+      <div className="-my-5 mr-6 sm:mr-8 md:mr-0">{/*  <Search />*/}</div>
       <div className="relative flex basis-0 justify-end space-x-6 sm:space-x-8 md:flex-grow">
-        <ThemeSelector className="relative z-10" />
+        <ThemeSelector className="relative z-10" imglogo={setImgLogo} />
         <Link href="https://github.com/paragraph-xyz/docs">
           <a className="group">
             <span className="sr-only">GitHub</span>
