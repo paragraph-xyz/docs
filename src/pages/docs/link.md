@@ -3,10 +3,12 @@ title: Paragraph Link
 description: Provision newsletters in 1 click for your users.
 ---
 
-Paragraph Link is a small JS snippet that lets 3rd-party developers pre-provision token-gated newsletters for your users. This gets them seamlessly onboarded onto Paragraph, and their account pre-configured using any tokens, team members, URLs, or anything else you pass us.
+Paragraph Link is a small JS snippet that lets 3rd-party developers seamlessly onboard their users onto Paragraph.
+
+Developers can also pre-configure their user's Paragraph publications using any tokens, team members, publication names, and more.
 
 For example, the following usecases could find value in Link:
-* You run a platform that lets users mint membership NFTs. You want to give utility to these NFTs by letting your users easily create token-gated newsletters.
+* You run a platform that lets users mint membership NFTs. You want to give utility to these NFTs by letting your users easily create gated newsletters behind these NFTs.
 
 * You run a writing platform. You have an existing flow where you gather the user's wallet address and name of their publication. You want to let writers create a Paragraph newsletter using this existing name.
 
