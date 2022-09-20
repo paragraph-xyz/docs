@@ -28,7 +28,8 @@ const navigation = [
   {
     title: 'Developers',
     links: [
-      { title: 'Building on Top of Paragraph', href: '/docs/development' },
+      { title: 'Building on top of Paragraph', href: '/docs/development' },
+      { title: 'Paragraph Link', href: '/docs/link' },
     ],
   },
 ]
