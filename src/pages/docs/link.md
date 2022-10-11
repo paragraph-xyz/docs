@@ -29,7 +29,7 @@ You can pass us the following information:
 | ----------- | ----------- |
 | publicationName      | Name of the publication. Defaults to the user’s ENS name or wallet address. |
 | publicationUrl   | The URL slug of the publication (ie, ‘my-neat-blog’ would be accessible at https://paragraph.xyz/@my-neat-blog). Defaults to the user’s ENS name or wallet address.        |
-| communityName   | The name of the gated community. Defaults to “Gated community”. Read more about token gating on Paragraph.        |
+| communityName   | The name of the gated community. Defaults to “Gated community”. |
 | membershipName   | The name of the membership that corresponds with this token. Defaults to “Access token”.        |
 | tokenAddress   | The address of the smart contract. We support ERC721 and ERC20 tokens on the Ethereum or Matic (Polygon) networks.        |
 | tokenQuantity   | The minimum number of tokens that readers must hold in order to access the publication. Defaults to 1.        |
@@ -52,7 +52,7 @@ const popup = window.open("https://paragraph.xyz/link?publicationName=The%20simp
             // Send the 'init' message. This is required.
             popup.postMessage("init", "https://paragraph.xyz");
 
-          // When the Papragraph flow completes, we'll broadcast
+          // When the Paragraph flow completes, we'll broadcast
           // this message.
           } else if (e.data === 'updated') {
              // Handle this flow: show success message, etc
