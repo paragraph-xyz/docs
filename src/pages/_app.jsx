@@ -21,6 +21,7 @@ const navigation = [
         href: '/docs/customizing-your-publication',
       },
       { title: 'Adding Team Members', href: '/docs/adding-team-members' },
+      { title: 'Getting Subscribers', href: '/docs/getting-subscribers' },
       { title: 'Token-Gated Content', href: '/docs/token-gated-content' },
     ],
   },
