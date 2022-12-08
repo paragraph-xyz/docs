@@ -33,6 +33,14 @@ const navigation = [
       { title: 'Paragraph Link', href: '/docs/link' },
     ],
   },
+  {
+    title: 'Integrations',
+    links: [
+      { title: 'Unlock Protocol', href: '/docs/integrations/unlock' },
+      { title: 'Referring Subscribers', href: '/docs/integrations/referrals' },
+      { title: 'Coinvise', href: '/docs/integrations/referrals' },
+    ],
+  },
 ]
 
 function getNodeText(node) {
