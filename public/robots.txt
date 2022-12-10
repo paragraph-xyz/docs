@@ -1,0 +1,23 @@
+User-agent: *
+
+# Next.JS Crawl Budget Performance Updates
+# Block files ending in .json, _buildManifest.js, _middlewareManifest.js, _ssgManifest.js, and any other JS files
+# The asterisks allows any file name
+# The dollar sign ensures it only matches the end of an URL and not a oddly formatted url (e.g. /locations.json.html)
+Disallow: /*.json$
+Disallow: /*_buildManifest.js$
+Disallow: /*_middlewareManifest.js$
+Disallow: /*_ssgManifest.js$
+Disallow: /*.js$
+
+# All posts with unconfigured (default) accounts
+# eg paragraph.xyz/@colin@paragraph.xyz
+Disallow: /@*@*.*$
+
+# All welcome posts
+Disallow: /*welcome-to-paragraph$
+Disallow: /*welcome-to-papyrus$
+
+# Disallow all API calls
+# eg /api/amp, /api/event
+Disallow: /api*$
