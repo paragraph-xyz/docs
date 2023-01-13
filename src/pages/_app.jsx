@@ -15,6 +15,7 @@ const navigation = [
     title: 'Core Concepts',
     links: [
       { title: 'Publishing Posts', href: '/docs/creating-posts' },
+      { title: 'Creating & embedding NFTs', href: '/docs/nfts' },
       { title: 'Sending Newsletters', href: '/docs/sending-newsletters' },
       {
         title: 'Customizing Your Publication',
