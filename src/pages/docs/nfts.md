@@ -3,7 +3,9 @@ title: Creating & embedding NFTs
 description: Learn how to create, mint & embed NFTs directly in your newsletter.
 ---
 
-We integrate with [Highlight.xyz](https://tools.highlight.xyz) so you can create NFTs, embed them in your Paragraph posts, and send them directly to your readers. You can create audio, image or video NFTs and set all sorts of parameters.
+We integrate with [Highlight.xyz](https://tools.highlight.xyz) so you can create NFTs, embed them in your Paragraph posts, and send them directly to your readers. Read the [launch announcement](https://paragraph.xyz/@blog/highlight).
+
+This lets you turn posts into collectibles & much more.
 
 ---
 
@@ -26,3 +28,15 @@ Head on over to Paragraph, and paste that link directly into a new post. It'll t
 ![Paragraph embed link](/img/highlight_embed.png)
 
 Readers can connect their wallet to collect this NFT directly in your posts. When sent via email, your subscribers can click "Collect" to be directed to the mint.highlight.xyz page above.
+
+# Example usecases
+
+Embedding flexible NFTs unlocks a whole array of new usecases. For example:
+
+* Turn every post into a time-limited NFT to incentivize readers to subscribe & collect
+
+* Narrate your posts, then create & embed audio NFTs
+
+* Reward your most loyal subscribers with gated NFT drops
+
+* Create token-gated posts based on NFTs you’ve embedded in previous posts. Your readers need to collect past content to view future content! (Is anyone excited about the first NFT-powered interactive novel?!)
