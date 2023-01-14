@@ -28,6 +28,14 @@ const navigation = [
   },
 
   {
+    title: 'Advanced Concepts',
+    links: [
+      { title: 'Create a referral program', href: '/docs/advanced/referral-program' },
+      { title: 'Accept streaming payments', href: '/docs/advanced/streaming-payments' },
+    ],
+  },
+
+  {
     title: 'Developers',
     links: [
       { title: 'Building on top of Paragraph', href: '/docs/development' },
