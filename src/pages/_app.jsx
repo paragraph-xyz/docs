@@ -31,7 +31,8 @@ const navigation = [
     title: 'Advanced Concepts',
     links: [
       { title: 'Create a referral program', href: '/docs/advanced/referral-program' },
-      { title: 'Accept streaming payments', href: '/docs/advanced/streaming-payments' },
+      { title: 'Streaming payments', href: '/docs/advanced/streaming-payments' },
+      { title: 'Recurring payments', href: '/docs/advanced/recurring-payments' },
     ],
   },
 
@@ -41,7 +42,6 @@ const navigation = [
       { title: 'Creating memberships with Coinvise', href: '/docs/integrations/coinvise' },
       { title: 'Verified accounts on NF.TD', href: '/docs/integrations/nftd' },
       { title: 'Using Paragraph with Unlock Protocol', href: '/docs/integrations/unlock-protocol' },
-      { title: 'Self-hosting Paragraph content', href: '/docs/integrations/self-hosting' },
     ],
   },
 
