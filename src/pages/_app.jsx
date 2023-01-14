@@ -36,6 +36,16 @@ const navigation = [
   },
 
   {
+    title: 'Integrations',
+    links: [
+      { title: 'Creating memberships with Coinvise', href: '/docs/integrations/coinvise' },
+      { title: 'Verified accounts on NF.TD', href: '/docs/integrations/nftd' },
+      { title: 'Using Paragraph with Unlock Protocol', href: '/docs/integrations/unlock-protocol' },
+      { title: 'Self-hosting Paragraph content', href: '/docs/integrations/self-hosting' },
+    ],
+  },
+
+  {
     title: 'Developers',
     links: [
       { title: 'Building on top of Paragraph', href: '/docs/development' },
