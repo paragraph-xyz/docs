@@ -24,8 +24,6 @@ Your **body text** is where your actual post content goes. Press `/` and insert 
 
 Any text you type here is saved automatically -- no need to perform a manual save.
 
-You can switch between [WYSIWYG](https://www.techtarget.com/whatis/definition/WYSIWYG-what-you-see-is-what-you-get) and raw [markdown](https://www.markdownguide.org/getting-started/) editing by using the toggle at the bottom.
-
 You can also modify your post settings by clicking the gear at the top right. Choose a cover image, modify the post slug, and add a friendly post preview.
 
 When you're ready to publish, just hit 'publish'. You'll now have the option to specify a few final things before your post is live - you can publish in a community, send a newsletter, or store on Arweave.
