@@ -9,7 +9,16 @@ Supercharge your community with tokens.
 
 ## Overview
 
-Paragraph allows you to create token-gated newsletters and content. You can use any ERC721 or ERC20 tokens on the Ethereum or Polygon network. If you don't have your token, no problem - you can mint your own NFT on Paragraph for **0 gas fees**, and use this to token-gate.
+Paragraph allows you to create token-gated newsletters and content. We support token-gating using any ERC721 or ERC20 tokens on the following networks:
+
+* Ethereum
+* Polygon
+* Binance Smart Chain
+* Gnosis
+* Avalanche
+* Arbitrum
+
+If you don't have an existing token, no problem - you can mint your own NFT on Paragraph for **0 gas fees**, and use this to token-gate.
 
 
 ## Adding Your Token To Paragraph
