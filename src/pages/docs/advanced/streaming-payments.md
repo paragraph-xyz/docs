@@ -3,6 +3,8 @@ title: Accept streaming payments for your token-gated newsletter
 description: We partner with Superfluid to bring streaming payments to your newsletter.
 ---
 
+Create Superfluid-Protocol enabled token-gating.
+
 We support using Superfluid NFTs, so you can accept streaming payments for your token-gated newsletter.
 
 ---
