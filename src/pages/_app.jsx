@@ -42,7 +42,7 @@ const navigation = [
       { title: 'Creating memberships with Coinvise', href: '/docs/integrations/coinvise' },
       { title: 'Verified accounts on NF.TD', href: '/docs/integrations/nftd' },
       { title: 'Using Paragraph with Unlock Protocol', href: '/docs/integrations/unlock-protocol' },
-        { title: 'Reading Paragraph hosts from Arweave', href: '/docs/integrations/arweave' },
+        { title: 'Reading Paragraph posts from Arweave', href: '/docs/integrations/arweave' },
     ],
   },
 
