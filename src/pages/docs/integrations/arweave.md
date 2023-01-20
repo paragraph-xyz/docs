@@ -1,5 +1,5 @@
 ---
-title: Reading Paragraph hosts from Arweave
+title: Reading Paragraph posts from Arweave
 description: Permissionlessly ingest Paragraph posts directly from Arweave.
 ---
 
