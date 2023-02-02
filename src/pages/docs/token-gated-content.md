@@ -44,11 +44,11 @@ After you finish the flow, an ERC1155 NFT will be minted on the Polygon network.
 
 **Note** that many NFT marketplaces, including OpenSea, have poor support for ERC1155s. You can verify the mint flow completed successfully by looking up your address on Polygonscan and confirming the ERC-1155 Token Txn occurred. (Alternately, you can find the tx on the Paragraph [Polygonscan address](https://polygonscan.com/address/0xc9ddb5E37165827BBBFf15b582E232C06862C4E8)).
 
-## Adding a newsletter subscription gate
+## Adding a Newsletter Subscription Gate
 
 If you would like to gate your post behind a newsletter subscription requirement, so that only subscribers can access your post, simply click `Add` under the `Subscription` card.
 
-## Creating Multiple Gates for a post
+## Creating Multiple Gates for a Post
 
 After you've added your first gate to a post, the wizard will now display a group view that lets you add additional tokens or newsletter subscription gates with complex AND/OR conditions.
 
@@ -56,10 +56,10 @@ In the example below, readers must either be subscribed to your newsletter AND h
 
 ![Gating wizard group conditions](/img/gating/gating_wizard_group_conditions.png)
 
-## Gated access to posts
+## Gated Access to Posts
 
 Now your posts will only be accessible to readers that connect their wallets and confirm they're holding the required tokens. (After readers connect their wallets once, they're prompted to add their email to their account, ensuring they receive future newsletters in their inbox).
 
-## Newsletter deliveries
+## Newsletter Deliveries
 
 Newsletters for gated posts will only be delivered to token-holders.
