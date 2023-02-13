@@ -3,7 +3,7 @@ title: Token-Gating Content
 description: Learn how to mint NFTs on Polygon, or use existing NFTs, to gate content.
 ---
 
-Monetize your posts with token gates!
+Build a community around your content and monetize it with token gates!
 
 ---
 
