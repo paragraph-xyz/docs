@@ -1,22 +1,21 @@
 ---
 title: Collectibles
-description: Learn how to use collectble content in your Paragraph newsletter.
+description: Discover how to integrate collectible content in your Paragraph newsletter for increased engagement & monetization.
 ---
 
-Collectible content adds a whole new layer of creation, engagement & monetization to your newsletter.
+Elevate your newsletter experience with collectible content, offering new ways for creation, engagement and monetization
 
-Paragraph supports several different types of collectibles:
-* Collectible content: your readers can save & own their favourite parts of your content
-* Collectible posts (coming soon!): turn entire posts into NFTs, letting your readers own their favourites
-* Embedded collectibles: create & mint image, audio, or video NFTs and embed them directly into your posts.
+* Collectible Content: Readers can save and own their favorite parts of your content.
+* Collectible Posts (coming soon!): Convert entire posts into NFTs, allowing readers to own their favorite pieces.
+* Embedded Collectibles: Mint and embed image, audio, or video NFTs directly into your posts.
 
 ---
 
 ## Collectible Content
 
-Your readers can save & own any part of your posts. They can do this by highlighting any sentence or paragraph and minting it as an NFT.
+Allow readers to save and own any part of your posts by highlighting a sentence or paragraph and minting it as an NFT.
 
-You have full control over the supply & cost of this content, and can enable or disable this across your entire publication or on a per-post basis.
+You maintain full control over the supply and cost of this content and can enable or disable it for your entire publication or on a per-post basis.
 
 ### Setting up collectible content
 
@@ -26,7 +25,7 @@ In your Paragraph publication settings, you can [enable or disable this feature]
 
 When you publish a post, you can also configure the supply & cost using the new 'collectibles' tab in your post settings.
 
-After a post is published, your readers can highlight any sentence or paragraph of your posts and choose to mint it as an NFT. This highlight is shown to other readers.
+After a post is published, your readers can highlight any sentence or paragraph of your posts and choose to mint it as an NFT. This highlight is visible to other readers.
 
 
 ## Collectible Posts
