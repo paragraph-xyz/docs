@@ -14,16 +14,16 @@ const navigation = [
   {
     title: 'Core Concepts',
     links: [
-      { title: 'Publishing Posts', href: '/docs/creating-posts' },
-      { title: 'Creating & embedding NFTs', href: '/docs/nfts' },
+      { title: 'Publishing', href: '/docs/creating-posts' },
       { title: 'Sending Newsletters', href: '/docs/sending-newsletters' },
       {
-        title: 'Customizing Your Publication',
+        title: 'Customization',
         href: '/docs/customizing-your-publication',
       },
       { title: 'Adding Team Members', href: '/docs/adding-team-members' },
       { title: 'Getting Subscribers', href: '/docs/getting-subscribers' },
-      { title: 'Token-Gating Content', href: '/docs/token-gated-content' },
+      { title: 'Collectibles', href: '/docs/nfts' },
+      { title: 'Token-Gating', href: '/docs/token-gated-content' },
     ],
   },
 
