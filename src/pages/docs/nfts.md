@@ -5,27 +5,38 @@ description: Discover how to integrate collectible content in your Paragraph new
 
 Elevate your newsletter experience with collectible content, offering new ways for creation, engagement and monetization.
 
-* Collectible Content: Readers can save and own their favorite parts of your content.
-* Collectible Posts (coming soon!): Convert entire posts into NFTs, allowing readers to own their favorite pieces.
-* Embedded Collectibles: Mint and embed image, audio, or video NFTs directly into your posts.
 
 ---
 
-## Collectible Content
+## Why collectibles?
+
+Collectibles enable writers to monetize their work through provable ownership and exclusivity, while offering collectors the chance to own unique literary pieces. Authors can engage with their audience beyond traditional publishing, and readers can directly support their favorite writers. Collectibles foster a sense of community and contribute to the cultural and financial significance of the written word in the digital age.
+
+
+## Collectibles on Paragraph
+
+Paragraph offers several different types of collectibles you can take advantage of:
+
+* **Collectible Highlights**: Readers can save and own their favorite parts of your content.
+* **Collectible Posts (coming soon!)**: Mint entire posts as NFTs, allowing readers to own their favorite pieces.
+* **Embedded Collectibles**: Mint whatever you want - images, audio, video - as NFTs, and embed them directly into your posts for your readers to collect.
+
+
+### Collectible Highlights
 
 Allow readers to save and own any part of your posts by highlighting a sentence or paragraph and minting it as an NFT.
 
 You maintain full control over the supply and cost of this content and can enable or disable it for your entire publication or on a per-post basis.
 
-### Setting up collectible content
+#### Configuring collectible highlights
 
-Before you can make your content colletible, you need to have a wallet connected to your Paragraph account.
+Before you can make your content colletible as a highlight, you need to have a wallet connected to your Paragraph account.
 
 In your Paragraph publication settings, you can [enable or disable this feature](https://paragraph.xyz/settings/publication/blog) for all your posts. You can also set the supply & cost of all highlights.
 
-When you publish a post, you can also configure the supply & cost using the new 'collectibles' tab in your post settings.
+When you publish a post, you can also configure the supply & cost using the 'collectibles' tab in your post settings.
 
-After a post is published, your readers can highlight any sentence or paragraph of your posts and choose to mint it as an NFT. This highlight is visible to other readers.
+After a post is published, your readers can highlight any sentence or paragraph of your posts and choose to mint it as an NFT. This highlight is visible to other readers. The NFT is tradable on third party marketplaces and viewable in their wallets.
 
 
 ## Collectible Posts
@@ -34,7 +45,9 @@ Turn your entire post into a collectible. Coming soon!
 
 ## Embedded Collectibles
 
-We integrate with [Highlight.xyz](https://tools.highlight.xyz) so you can create NFTs, embed them in your Paragraph posts, and send them directly to your readers. Read the [launch announcement](https://paragraph.xyz/@blog/highlight).
+We integrate with [Highlight.xyz](https://tools.highlight.xyz) so you can create NFTs out of anything, embed them in your Paragraph posts, and let your readers collect.
+
+Read the [launch announcement](https://paragraph.xyz/@blog/highlight) for motivation behind this feature.
 
 ### Creating & embedding collectibles
 
@@ -56,9 +69,11 @@ Head on over to Paragraph, and paste that link directly into a new post. It'll t
 
 Readers can connect their wallet to collect this NFT directly in your posts. When sent via email, your subscribers can click "Collect" to be directed to the mint.highlight.xyz page above.
 
-### Example usecases
+### Example use cases
 
-Embedding flexible NFTs unlocks a whole array of new usecases. For example:
+Embedding flexible NFTs unlocks a whole array of new use cases. For example:
+
+* Build a gated Discord community, accessible only to collectors of your content
 
 * Turn every post into a time-limited NFT to incentivize readers to subscribe & collect
 
@@ -66,4 +81,4 @@ Embedding flexible NFTs unlocks a whole array of new usecases. For example:
 
 * Reward your most loyal subscribers with gated NFT drops
 
-* Create token-gated posts based on NFTs you’ve embedded in previous posts. Your readers need to collect past content to view future content! (Is anyone excited about the first NFT-powered interactive novel?!)
+* Create token-gated posts based on your previous post's NFTs. Your readers need to collect past content to view future content! (Is anyone excited about the first NFT-powered interactive novel?!)
