@@ -13,6 +13,20 @@ Elevate your newsletter experience with collectible content, offering new ways f
 Collectibles enable writers to monetize their work through provable ownership and exclusivity, while offering collectors the chance to own unique literary pieces. Authors can engage with their audience beyond traditional publishing, and readers can directly support their favorite writers. Collectibles foster a sense of community and contribute to the cultural and financial significance of the written word in the digital age.
 
 
+### Example use cases
+
+Embedding flexible NFTs unlocks a whole array of new use cases. For example:
+
+* Build a gated Discord community, accessible only to collectors of your content
+
+* Turn every post into a time-limited NFT to incentivize readers to subscribe & collect
+
+* Narrate your posts, then create & embed audio NFTs
+
+* Reward your most loyal subscribers with gated NFT drops
+
+* Create token-gated posts based on your previous post's NFTs. Your readers need to collect past content to view future content! (Is anyone excited about the first NFT-powered interactive novel?!)
+
 ## Collectibles on Paragraph
 
 Paragraph offers several different types of collectibles you can take advantage of:
@@ -68,17 +82,3 @@ Head on over to Paragraph, and paste that link directly into a new post. It'll t
 ![Paragraph embed link](/img/highlight_embed.png)
 
 Readers can connect their wallet to collect this NFT directly in your posts. When sent via email, your subscribers can click "Collect" to be directed to the mint.highlight.xyz page above.
-
-### Example use cases
-
-Embedding flexible NFTs unlocks a whole array of new use cases. For example:
-
-* Build a gated Discord community, accessible only to collectors of your content
-
-* Turn every post into a time-limited NFT to incentivize readers to subscribe & collect
-
-* Narrate your posts, then create & embed audio NFTs
-
-* Reward your most loyal subscribers with gated NFT drops
-
-* Create token-gated posts based on your previous post's NFTs. Your readers need to collect past content to view future content! (Is anyone excited about the first NFT-powered interactive novel?!)
