@@ -3,8 +3,7 @@ title: Collectibles
 description: Discover how to integrate collectible content in your Paragraph newsletter for increased engagement & monetization.
 ---
 
-Elevate your newsletter experience with collectible content, offering new ways for creation, engagement and monetization.
-
+Use collectible content inside your Paragraph newsletter, offering new ways for creation, engagement and monetization.
 
 ---
 
