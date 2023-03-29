@@ -7,12 +7,12 @@ Use collectible content inside your Paragraph newsletter, offering new ways for 
 
 ---
 
-## Why collectibles?
+# Why collectibles?
 
 Collectibles enable writers to monetize their work through provable ownership and exclusivity, while offering collectors the chance to own unique literary pieces. Authors can engage with their audience beyond traditional publishing, and readers can directly support their favorite writers. Collectibles foster a sense of community and contribute to the cultural and financial significance of the written word in the digital age.
 
 
-### Example use cases
+## Example use cases
 
 Embedding flexible NFTs unlocks a whole array of new use cases. For example:
 
@@ -26,7 +26,7 @@ Embedding flexible NFTs unlocks a whole array of new use cases. For example:
 
 * Create token-gated posts based on your previous post's NFTs. Your readers need to collect past content to view future content! (Is anyone excited about the first NFT-powered interactive novel?!)
 
-## Collectibles on Paragraph
+# Collectibles on Paragraph
 
 Paragraph offers several different types of collectibles you can take advantage of:
 
@@ -35,13 +35,13 @@ Paragraph offers several different types of collectibles you can take advantage 
 * **Embedded Collectibles**: Mint whatever you want - images, audio, video - as NFTs, and embed them directly into your posts for your readers to collect.
 
 
-### Collectible Highlights
+## Collectible Highlights
 
 Allow readers to save and own any part of your posts by highlighting a sentence or paragraph and minting it as an NFT.
 
 You maintain full control over the supply and cost of this content and can enable or disable it for your entire publication or on a per-post basis.
 
-#### Configuring collectible highlights
+### Configuring collectible highlights
 
 Before you can make your content colletible as a highlight, you need to have a wallet connected to your Paragraph account.
 
@@ -62,7 +62,7 @@ We integrate with [Highlight.xyz](https://tools.highlight.xyz) so you can create
 
 Read the [launch announcement](https://paragraph.xyz/@blog/highlight) for motivation behind this feature.
 
-### Creating & embedding collectibles
+### Using embedded collectibles
 
 Head to [Highlight](https://tools.highlight.xyz) and create a token.
 
