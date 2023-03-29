@@ -4,3 +4,8 @@
 @import './prism.css';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+.prose img {
+  margin-left: auto;
+  margin-right: auto;
+}
