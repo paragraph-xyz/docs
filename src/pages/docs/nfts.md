@@ -25,7 +25,7 @@ In your Paragraph publication settings, you can [enable or disable this feature]
 
 When you publish a post, you can also configure the supply & cost using the new 'collectibles' tab in your post settings.
 
-After a post is published, your readers can highlight any sentence or paragraph of your posts and choose to mint it as an NFT. This highlight is visible to other readers.
+After a post is published, your readers can highlight any sentence or paragraph of your posts and choose to mint it as an NFT. This collectible is visible to other readers.
 
 
 ## Collectible Posts
