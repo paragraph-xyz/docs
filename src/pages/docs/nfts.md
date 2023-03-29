@@ -21,7 +21,7 @@ You maintain full control over the supply and cost of this content and can enabl
 
 Before you can make your content colletible, you need to have a wallet connected to your Paragraph account.
 
-In your Paragraph publication settings, you can [enable or disable this feature](https://paragraph.xyz/settings/publication/blog) for all your posts. You can also set the supply & cost of all highlights.
+In your Paragraph publication settings, you can [enable or disable this feature](https://paragraph.xyz/settings/publication/blog) for all your posts. You can also set the supply & cost of all collectibles.
 
 When you publish a post, you can also configure the supply & cost using the new 'collectibles' tab in your post settings.
 
