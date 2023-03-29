@@ -1,15 +1,42 @@
 ---
-title: Creating & embedding NFTs
-description: Learn how to create, mint & embed NFTs directly in your newsletter.
+title: Collectibles
+description: Discover how to integrate collectible content in your Paragraph newsletter for increased engagement & monetization.
 ---
+
+Elevate your newsletter experience with collectible content, offering new ways for creation, engagement and monetization.
+
+* Collectible Content: Readers can save and own their favorite parts of your content.
+* Collectible Posts (coming soon!): Convert entire posts into NFTs, allowing readers to own their favorite pieces.
+* Embedded Collectibles: Mint and embed image, audio, or video NFTs directly into your posts.
+
+---
+
+## Collectible Content
+
+Allow readers to save and own any part of your posts by highlighting a sentence or paragraph and minting it as an NFT.
+
+You maintain full control over the supply and cost of this content and can enable or disable it for your entire publication or on a per-post basis.
+
+### Setting up collectible content
+
+Before you can make your content colletible, you need to have a wallet connected to your Paragraph account.
+
+In your Paragraph publication settings, you can [enable or disable this feature](https://paragraph.xyz/settings/publication/blog) for all your posts. You can also set the supply & cost of all collectibles.
+
+When you publish a post, you can also configure the supply & cost using the new 'collectibles' tab in your post settings.
+
+After a post is published, your readers can highlight any sentence or paragraph of your posts and choose to mint it as an NFT. This collectible is visible to other readers.
+
+
+## Collectible Posts
+
+Turn your entire post into a collectible. Coming soon!
+
+## Embedded Collectibles
 
 We integrate with [Highlight.xyz](https://tools.highlight.xyz) so you can create NFTs, embed them in your Paragraph posts, and send them directly to your readers. Read the [launch announcement](https://paragraph.xyz/@blog/highlight).
 
-This lets you turn posts into collectibles & much more.
-
----
-
-## Creating NFTs with Highlight
+### Creating & embedding collectibles
 
 Head to [Highlight](https://tools.highlight.xyz) and create a token.
 
@@ -29,7 +56,7 @@ Head on over to Paragraph, and paste that link directly into a new post. It'll t
 
 Readers can connect their wallet to collect this NFT directly in your posts. When sent via email, your subscribers can click "Collect" to be directed to the mint.highlight.xyz page above.
 
-# Example usecases
+### Example usecases
 
 Embedding flexible NFTs unlocks a whole array of new usecases. For example:
 
