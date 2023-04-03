@@ -45,5 +45,5 @@ Paragraph is heavily optimized for SEO, which will help your publication get dis
 * Unlike other newsletter platforms, we host all content on the top-level https://paragraph.xyz domain (rather than a https://yourname.paragraph.xyz subdomain. This means Paragraph's SEO ranking gets shared with your newsletters.
 * We auto-generate meta tags and social text, but you can specify your own in every post to further customize.
 * We auto-generate a descriptive post slug (URL structure is important for SEO ranking). You can optionally specify your own.
-* We link all posts in our [sitemap](http://paragraph.xyz/sitemap.xml), exposing them to web crawlers.
+* We link all posts in our sitemap, exposing them to web crawlers.
 * We've optimized cumulative layout shift (CLS), largest contentful paint (LCP), and other core web vitals, all of which are important to crawlers.
