@@ -23,7 +23,7 @@ If you don't have an existing token, no problem - you can mint your own NFT on P
 
 ## Adding Your Token To Paragraph
 
-From any post, click the "Gate" button at the top right. Then follow the wizard to create any combination of token and newsletter gates.
+From any post, click the "Gate" button at the top right, or type `/Gate`. Then follow the wizard to create any combination of token and newsletter gates.
 
 ![Gating wizard gate type choice](/img/gating/gating_wizard_gate_types.png)
 
@@ -60,6 +60,26 @@ In the example below, readers must either be subscribed to your newsletter AND h
 ## Gated Access to Posts
 
 Now your posts will only be accessible to readers that connect their wallets and confirm they're holding the required tokens. (After readers connect their wallets once, they're prompted to add their email to their account, ensuring they receive future newsletters in their inbox).
+
+## Gated Access within Posts
+
+You can also insert gates within posts by typing `/Gate` anywhere in the editor. This allows you to have part of a post gated and publicly visible to entice readers (and help with SEO), and then gate exclusive content after a certain point.
+
+You can even combine these embedded gates with the overal post gate in any way you like.
+
+---
+
+![Simple gate embed](/img/gating/gating_embed_simple.png)
+
+---
+
+You can also use as many embedded gates as you want, potentially breaking up a post into several sections.
+
+---
+
+![Complex gate embeds](/img/gating/gating_embeds_complex.png)
+
+---
 
 ## Newsletter Deliveries
 
