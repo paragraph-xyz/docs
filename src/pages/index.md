@@ -21,9 +21,7 @@ Welcome to Paragraph. This documentation teaches you everything you need to know
 Any feedback or feature requests? Drop by our [Discord](https://paragraph.xyz/discord) or email [hello@paragraph.xyz](mailto:hello@paragraph.xyz).
 
 ---
-<!---
-Suggestion to create the Get help & provide feedback section as a unique page in the Introduction section. I think it makes sense to separate from Overview since the user tasks / needs are different for each page. Overview is informative while Help/feedback is task-driven and action-oriented.
---->
+
 ## Get Help & Provide Feedback
 
 Encountering issues or need additional help? No problem.
