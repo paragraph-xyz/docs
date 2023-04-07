@@ -89,10 +89,10 @@ Newsletters for gated posts will only be delivered to token-holders. If you've g
 
 Here's a few examples of how gated posts appear to readers.
 
-Entire post gated:
+#### Example of entire post gated
 
 ![Post gate example](/img/gating/gating_example_post_gate.png)
 
-Embedded gate:
+#### Example of post with embedded gate
 
 ![Embed gate example](/img/gating/gating_example_embed_gate.png)
