@@ -65,7 +65,7 @@ Now your posts will only be accessible to readers that connect their wallets and
 
 You can also insert gates within posts by typing `/Gate` anywhere in the editor. This allows you to have part of a post gated and publicly visible to entice readers (and help with SEO), and then gate exclusive content after a certain point.
 
-You can even combine these embedded gates with the overal post gate in any way you like.
+You can even combine these embedded gates with the overall post gate in any way you like.
 
 ---
 
