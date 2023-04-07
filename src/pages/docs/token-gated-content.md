@@ -83,4 +83,16 @@ You can also use as many embedded gates as you want, potentially breaking up a p
 
 ## Newsletter Deliveries
 
-Newsletters for gated posts will only be delivered to token-holders.
+Newsletters for gated posts will only be delivered to token-holders. If you've gated a section within a post using an embed within the editor, we'll render these for token-holders, and for readers who don't have a token, we'll remove the gated part of the post and just display a link to the post saying they're missing out on exclusive content.
+
+## Examples of gated posts
+
+Here's a few examples of how gated posts appear to readers.
+
+Entire post gated:
+
+![Post gate example](/img/gating/gating_example_post_gate.png)
+
+Embedded gate:
+
+![Embed gate example](/img/gating/gating_example_embed_gate.png)
