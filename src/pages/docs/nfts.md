@@ -3,7 +3,7 @@ title: Collectibles
 description: Discover how to integrate collectible content in your Paragraph newsletter for increased engagement & monetization.
 ---
 
-Use collectible content inside your Paragraph newsletter, offering new ways for creation, engagement and monetization.
+Use collectible content inside your Paragraph newsletter, unlocking new ways of creation, engagement and monetization.
 
 ---
 
@@ -31,7 +31,7 @@ Embedding flexible NFTs unlocks a whole array of new use cases. For example:
 Paragraph offers several different types of collectibles you can take advantage of:
 
 * **Collectible Highlights**: Readers can save and own their favorite parts of your content.
-* **Collectible Posts (coming soon!)**: Mint entire posts as NFTs, allowing readers to own their favorite pieces.
+* **Collectible Posts**: Mint entire posts as NFTs, allowing readers to own their favorite pieces.
 * **Embedded Collectibles**: Mint whatever you want - images, audio, video - as NFTs, and embed them directly into your posts for your readers to collect.
 
 
@@ -45,7 +45,7 @@ You maintain full control over the supply and cost of this content and can enabl
 
 Before you can make your content colletible as a highlight, you need to have a wallet connected to your Paragraph account.
 
-In your Paragraph publication settings, you can [enable or disable this feature](https://paragraph.xyz/settings/publication/blog) for all your posts. You can also set the supply & cost of all highlights.
+In your Paragraph publication settings, you can [enable or disable this feature](https://paragraph.xyz/settings/publication/blog) for all your posts. You can also set the supply, cost, and chain of all highlights. You can choose a wallet address for funds to be deposited. If no wallet address is specified, the wallet address on the account owner is used by default.
 
 When you publish a post, you can also configure the supply & cost using the 'collectibles' tab in your post settings.
 
@@ -54,7 +54,13 @@ After a post is published, your readers can highlight any sentence or paragraph 
 
 ## Collectible Posts
 
-Turn your entire post into a collectible. Coming soon!
+Turn your entire post into a collectible.
+
+### Configuring collectible posts
+
+Control the cost, supply & chain of collectible posts in your Paragraph settings, similar to the collectible highlights mentioned above.
+
+When publishing a post, you can upload an image to be used as the NFT artwork for your NFT.
 
 ## Embedded Collectibles
 
