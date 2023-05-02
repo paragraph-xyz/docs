@@ -3,7 +3,7 @@ title: Farcaster integrations
 description: Integrations between Paragraph & Farcaster.
 ---
 
-Paragraph has a handful of different integrations with the [Farcaster protocol](https://www.farcaster.xyz/). We believe integrations with decentralized social networks such as Farcaster can unlock new & better ways for creators to permissionlessly distribute, engage, & monetize.
+Paragraph has a handful of different integrations with the [Farcaster protocol](https://www.farcaster.xyz/). We believe integrations with sufficiently decentralized social networks such as Farcaster can unlock new & better ways for creators to permissionlessly distribute their content & engage with their community, without needing to rely on closed platforms or network lock-in.
 
 ---
 
@@ -17,7 +17,7 @@ At any point after Paragraph account registration, visit [your account settings]
 
 ## View your follower's posts
 
-We showcase all your Farcaster followers' posts in a [dedicated feed](https://paragraph.xyz/discover/feed/for-you/farcaster), ensuring you never miss their latest long-form content.
+We showcase all your Farcaster followers' posts in a [dedicated feed](https://paragraph.xyz/discover/feed/for-you/farcaster), letting you view their long-form content without necessarily needing to subscribe to them.
 
 You can also view _someone else's feed_, given their wallet address. For example, here is everyone that's following dwr: [https://paragraph.xyz/discover/feed/for-you/farcaster/0xD7029BDEa1c17493893AAfE29AAD69EF892B8ff2](https://paragraph.xyz/discover/feed/for-you/farcaster/0xD7029BDEa1c17493893AAfE29AAD69EF892B8ff2)
 
