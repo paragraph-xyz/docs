@@ -67,7 +67,6 @@ export function MobileNavigation({ navigation }) {
             <Link href="/">
               <a className="ml-6 block w-10 overflow-hidden lg:w-auto">
                 <span className="sr-only">Home page</span>
-                <Logo />
               </a>
             </Link>
           </div>
