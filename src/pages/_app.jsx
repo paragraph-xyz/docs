@@ -61,6 +61,10 @@ const navigation = [
         title: 'Reading Paragraph posts from Arweave',
         href: '/docs/integrations/arweave',
       },
+      {
+        title: 'Farcaster',
+        href: '/docs/integrations/farcaster',
+      },
     ],
   },
 
