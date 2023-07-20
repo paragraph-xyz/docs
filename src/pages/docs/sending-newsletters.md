@@ -23,15 +23,17 @@ If your community is [token-gated,](/docs/token-gated-content) your readers need
 
 In addition to email, we also give you the option of delivering your newsletter to your reader's wallets. We use [XMTP](https://xmtp.org/) for delivering newsletters in a completely decentralized & censorship-resistant way.
 
-Your readers can subscribe to your publication with their wallet, as mentioned [here](/docs/getting-subscribers). Even if you don't enable wallet subscriptions on your publication, any Paragraph user can add their wallet to their account in order to receive newsletters.
+Your readers can subscribe to your publication with their wallet, as mentioned [here](/docs/getting-subscribers). Even if you don't enable wallet subscriptions on your publication, any Paragraph user can add their wallet to their account, and will receive newsletters via wallet if so.
 
-Wallet newsletter delivery also supports the community and token-gating functionality on Paragraph, as described above.
+You can use the community & token-gating functionality alongside wallet newsletter delivery, meaning that you can send token-gated posts directly to wallets; or, segment your subscribers and deliver relevant content to the right segments.
+
+We don't currently deliver the _entire_ post via XMTP: we instead deliver a short message that includes the URL of your post, the title of your publication & post, and your post preview. Messages are received by the `paragraph-xyz` ENS.
 
 Note that recipient's wallets need to be activated on the XMTP network before they can receive messages. The easiest way is to go through the setup flow on any XMTP client, like [https://xmtp.chat/inbox](XMTP Chat). (This is an entirely free and gasless one-time activation).
 
 ## Managing Subscribers
 
-On your Paragraph [subscriber settings](https://paragraph.xyz/app/subscribers), you can view or remove your subscribers. You can also add new subscribers manually.
+On your Paragraph [subscriber settings](https://paragraph.xyz/app/subscribers), you can view or remove your subscribers. You can also add new subscribers manually, using their wallet address _or_ their email address.
 
 ### Importing Subscribers
 
