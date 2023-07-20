@@ -3,7 +3,7 @@ title: Sending Newsletters.
 description: Deliver newsletters directly ro your readers.
 ---
 
-Paragraph provides tooling to send newsletters directly to your readers.
+Paragraph provides everything you need to send newsletters directly to your user's email addresses or wallets.
 
 ---
 
