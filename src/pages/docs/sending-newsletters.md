@@ -21,13 +21,19 @@ If your community is [token-gated,](/docs/token-gated-content) your readers need
 
 ## Wallet Newsletter Delivery
 
-We're actively working with the [XMTP team](https://xmtp.com) to deliver newsletters entirely on-chain via the XMTP protocol - no email needed.
+In addition to email, we also give you the option of delivering your newsletter to your reader's wallets. We use [XMTP](https://xmtp.org/) for delivering newsletters in a completely decentralized & censorship-resistant way.
 
-Until this is launched, we require email for newsletter delivery.
+Your readers can subscribe to your publication with their wallet, as mentioned [here](/docs/getting-subscribers). Even if you don't enable wallet subscriptions on your publication, any Paragraph user can add their wallet to their account, and will then be able to receive newsletters via wallet.
+
+You can use the community & token-gating functionality alongside wallet newsletter delivery, meaning that you can send token-gated posts directly to wallets; or segment your subscribers and deliver relevant content to the right segments.
+
+We don't currently deliver the _entire_ post via XMTP: we instead deliver a short message that includes the URL of your post, the title of your publication & post, and your post preview. Messages are received by the `paragraph-xyz` ENS.
+
+Note that recipients' wallets need to be activated on the XMTP network before they can receive messages. The easiest way is to go through the setup flow on any XMTP client, like [https://xmtp.chat/inbox](XMTP Chat). (This is an entirely free and gasless one-time activation).
 
 ## Managing Subscribers
 
-On your Paragraph [subscriber settings](https://paragraph.xyz/app/subscribers), you can view or remove your subscribers. You can also add new subscribers manually.
+On your Paragraph [subscriber settings](https://paragraph.xyz/app/subscribers), you can view or remove your subscribers. You can also add new subscribers manually, using their wallet address _or_ their email address.
 
 ### Importing Subscribers
 
