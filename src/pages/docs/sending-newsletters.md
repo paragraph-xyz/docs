@@ -23,7 +23,7 @@ If your community is [token-gated,](/docs/token-gated-content) your readers need
 
 In addition to email, we also give you the option of delivering your newsletter to your reader's wallets. We use [XMTP](https://xmtp.org/) for delivering newsletters in a completely decentralized & censorship-resistant way.
 
-Your readers can subscribe to your publication with their wallet, as mentioned [here](/docs/getting-subscribers). Even if you don't enable wallet subscriptions on your publication, any Paragraph user can add their wallet to their account, and will receive newsletters via wallet if so.
+Your readers can subscribe to your publication with their wallet, as mentioned [here](/docs/getting-subscribers). Even if you don't enable wallet subscriptions on your publication, any Paragraph user can add their wallet to their account, and will then be able to receive newsletters via wallet.
 
 You can use the community & token-gating functionality alongside wallet newsletter delivery, meaning that you can send token-gated posts directly to wallets; or, segment your subscribers and deliver relevant content to the right segments.
 
