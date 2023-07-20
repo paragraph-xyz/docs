@@ -25,7 +25,7 @@ In addition to email, we also give you the option of delivering your newsletter 
 
 Your readers can subscribe to your publication with their wallet, as mentioned [here](/docs/getting-subscribers). Even if you don't enable wallet subscriptions on your publication, any Paragraph user can add their wallet to their account, and will then be able to receive newsletters via wallet.
 
-You can use the community & token-gating functionality alongside wallet newsletter delivery, meaning that you can send token-gated posts directly to wallets; or, segment your subscribers and deliver relevant content to the right segments.
+You can use the community & token-gating functionality alongside wallet newsletter delivery, meaning that you can send token-gated posts directly to wallets; or segment your subscribers and deliver relevant content to the right segments.
 
 We don't currently deliver the _entire_ post via XMTP: we instead deliver a short message that includes the URL of your post, the title of your publication & post, and your post preview. Messages are received by the `paragraph-xyz` ENS.
 
