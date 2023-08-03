@@ -3,7 +3,7 @@ title: Sending Newsletters.
 description: Deliver newsletters directly ro your readers.
 ---
 
-Paragraph provides everything you need to send newsletters directly to your user's email addresses or wallets.
+Paragraph provides everything you need to send newsletters directly to your users' email addresses or wallets.
 
 ---
 
@@ -21,7 +21,7 @@ If your community is [token-gated,](/docs/token-gated-content) your readers need
 
 ## Wallet Newsletter Delivery
 
-In addition to email, we also give you the option of delivering your newsletter to your reader's wallets. We use [XMTP](https://xmtp.org/) for delivering newsletters in a completely decentralized & censorship-resistant way.
+In addition to email, we also give you the option of delivering your newsletter to your readers' wallets. We use [XMTP](https://xmtp.org/) for delivering newsletters in a completely decentralized & censorship-resistant way.
 
 Your readers can subscribe to your publication with their wallet, as mentioned [here](/docs/getting-subscribers). Even if you don't enable wallet subscriptions on your publication, any Paragraph user can add their wallet to their account, and will then be able to receive newsletters via wallet.
 
