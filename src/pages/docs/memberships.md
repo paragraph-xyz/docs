@@ -3,7 +3,7 @@ title: Memberships
 description: Monetize your Paragraph newsletter with recurring memberships.
 ---
 
-Create memberships to offer benefits to your subscribers and optionally begin monetizing with recurring payments.
+Create free or paid memberships to offer benefits to your subscribers and begin monetizing with recurring payments.
 
 ---
 
