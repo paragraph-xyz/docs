@@ -32,6 +32,7 @@ This is the first iteration of what's to come. Within the next few months, membe
 * Backed by NFTs. Members can mint an NFT indicating that they're a part of this membership.
 * Purchasable using fiat or crypto.
 * One-off payments will be possible, not just recurring.
+* Memberships can be in limited quantity.
 
 # Importing paid subscribers
 
