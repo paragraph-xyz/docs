@@ -23,6 +23,7 @@ const navigation = [
       { title: 'Adding Team Members', href: '/docs/adding-team-members' },
       { title: 'Getting Subscribers', href: '/docs/getting-subscribers' },
       { title: 'Collectibles', href: '/docs/nfts' },
+      { title: 'Memberships', href: '/docs/memberships' },
       { title: 'Token-gating', href: '/docs/token-gated-content' },
     ],
   },
