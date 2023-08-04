@@ -32,3 +32,7 @@ This is the first iteration of what's to come. Within the next few months, membe
 * Backed by NFTs. Members can mint an NFT indicating that they're a part of this membership.
 * Purchasable using fiat or crypto.
 * Recurring payments, or one-off.
+
+# Importing paid subscribers
+
+Migrating from another platform? We'd love to help move you over. Reach out to us at hello@paragraph.xyz and we'll work with you on migrating.
