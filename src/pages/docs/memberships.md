@@ -15,7 +15,7 @@ All Paragraph publications have a single free membership by default, but you can
 
 For each membership, you can upload a membership image, mark one as 'recommended' (showing a border around it), and choose additional benefits and perks that are associated to each. For example, you can offer a private Discord community to a paid membership tier. You can also gate exclusive content on Paragraph to certain memberships.
 
-All publications also have a _membership_ page, accessible at /memberships (for example: https://paragraph.xyz/@blog/memberships). You can share this link with your readers to incentivize them to upgrade and illustrate the perks they'd get.
+All publications also have a _membership_ page, accessible at /memberships (for example: [https://paragraph.xyz/@web3academy/memberships](https://paragraph.xyz/@web3academy/memberships). You can share this link with your readers to incentivize them to upgrade and illustrate the perks they'd get.
 
 ![Paragraph memberships](/img/membership.png)
 
