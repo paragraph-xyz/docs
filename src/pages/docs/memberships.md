@@ -34,6 +34,7 @@ This is the first iteration of what's to come. Within the next few months, membe
 * One-off payments will be possible, not just recurring.
 * Memberships can be in limited quantity.
 
+Stay tuned for more
 
 # Importing paid subscribers
 
