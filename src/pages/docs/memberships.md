@@ -11,7 +11,7 @@ Create free or paid memberships to offer benefits to your subscribers and begin 
 
 Paragraph enables you to create _memberships_ for your newsletter. Memberships allow you to grant additional benefits and perks to your subscribers.
 
-All Paragraph publications have a single free membership by default, but you can optionally create paid memberships. Upon subscribing to your newsletter, readers will be auto-join the free membership but can choose to upgrade to a paid tier (if you have any paid tiers). At any point, a subscriber can also click "Upgrade to Paid" on your publication and purchase a paid subscription.
+All Paragraph publications have a single free membership by default, but you can optionally create paid memberships. Upon subscribing to your newsletter, readers will auto-join the free membership but can choose to upgrade to a paid tier (if you have any paid tiers). At any point, a subscriber can also click "Upgrade to Paid" on your publication and purchase a paid subscription.
 
 For each membership, you can upload a mmebership image and choose additional benefits and perks that are associated to each. For example, you can offer a private Discord community to a paid membership tier. You can also gate exclusive content on Paragraph to certain memberships.
 
