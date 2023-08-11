@@ -29,7 +29,7 @@ You can use the community & token-gating functionality alongside wallet newslett
 
 We don't currently deliver the _entire_ post via XMTP: we instead deliver a short message that includes the URL of your post, the title of your publication & post, and your post preview. Messages are received by the `paragraph-xyz` ENS.
 
-Note that recipients' wallets need to be activated on the XMTP network before they can receive messages. The easiest way is to go through the setup flow on any XMTP client, like [https://xmtp.chat/inbox](XMTP Chat). (This is an entirely free and gasless one-time activation).
+Note that recipients' wallets need to be activated on the XMTP network before they can receive messages. The easiest way is to go through the setup flow on any XMTP client, like [XMTP Chat](https://xmtp.chat/inbox). (This is an entirely free and gasless one-time activation).
 
 ## Managing Subscribers
 
