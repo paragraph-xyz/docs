@@ -32,7 +32,7 @@ const navigation = [
     title: 'Advanced Concepts',
     links: [
       {
-        title: 'Create a referral program',
+        title: 'Referral rewards',
         href: '/docs/advanced/referral-program',
       },
       {
