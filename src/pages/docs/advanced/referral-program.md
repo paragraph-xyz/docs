@@ -69,3 +69,13 @@ This is a table of examples using the Optimism breakdown above:
 - The user needs to be a _new user to Paragraph_ for the creator referrer reward to be set. The user must not have had any Paragraph account before.
 - The reader referrer reward is set only on the publication that you referred the user to. If you refer the reader to a different page (such as the Paragraph landing page), no reader referrer reward will be set
 - Only a single creator or reader referrer reward can be set at any given time. The referrers expire after 7 days, after which a new one can be set.
+
+## Integrating with our smart contracts
+
+If you're a curator (eg Daylight.xyz or Mint.fun) interested in getting reader referral fees for mints you refer to us,
+you can do so by calling the following method on our Paragraph ERC721s:
+
+`mintWithReferrer(address recipientOfNFT, address mintReferrer)`
+
+If you're interested in a deeper integration (eg, possibly for getting creator referral fees), reach out to us
+at hello@paragraph.xyz.
