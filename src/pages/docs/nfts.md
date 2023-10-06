@@ -75,11 +75,13 @@ You can find the contracts for our factory deployers below:
 
 |  | Testnet | Mainnet
 | --- | --- | --- |
-| Base | 0xb8Cd74bc2326Db73F3D7a406cFE2f7139D04dE06 | 0x2456 |
-| Optimism | 0xA9A7aF1990aADa654E5CFCDf3795c344f91f1B0f | 0x2456 |
-| Polygon | 0xe993b7a389e7498749ee8C20D522c5fc39087490 | 0x2456 |
+| Base | 0x8c9DccABA872Ed195F7F65361f32264c5a5C82e2 | 0x2456 |
+| Optimism | 0xb8Cd74bc2326Db73F3D7a406cFE2f7139D04dE06 | 0x2456 |
+| Polygon | 0x9D4d5dA7e19c8D9678C29Fe94709187dc68d3C95 | 0x2456 |
 
 We call the `createAndMint` methods on these contracts which deploys a new smart contract ERC721 lazily, mints the first NFT to the minter, and transfers ownership of the smart contract to the Paragraph creator.
+
+Note that none of our contracts are audited, so you use them at your own risk.
 
 ## Embedded Collectibles
 
