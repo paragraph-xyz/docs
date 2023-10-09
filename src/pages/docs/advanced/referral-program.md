@@ -8,7 +8,7 @@ Every Paragraph publication has a referral program built-in, to help creators gr
 Simply append a wallet address to any Paragraph URL, and when users click on the link, you'll get a reward fee automatically sent to your wallet whenever users mint collectible posts.
 
 If a user clicks your referral link then becomes a Paragraph creator themself, you'll automatically get an indefinite
-rake of all revenue they earn on Paragraph.
+rake of all the revenue they earn on Paragraph.
 
 Read more: [https://paragraph.xyz/referral-rewards](https://paragraph.xyz/referral-rewards)
 
