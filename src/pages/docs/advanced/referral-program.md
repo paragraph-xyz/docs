@@ -49,7 +49,7 @@ We charge a 2 MATIC mint fee, with the following reward breakdown:
 
 - 0.8 MATIC to the creator
 - 0.6 MATIC to the Paragraph platform
-- 0.3 MATIC tot he creator referrer
+- 0.3 MATIC to the creator referrer
 - 0.3 MATIC to the reader referrer
 
 ## Examples
