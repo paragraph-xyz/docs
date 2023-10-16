@@ -18,7 +18,7 @@ Read more: [https://paragraph.xyz/referral-rewards](https://paragraph.xyz/referr
 
 Add your wallet address to any Paragraph url using the ?referrer param, eg:
 
-- A post: https://paragraph.xyz/@blog/recurring-subscriptions?referrer=0x123...
+- A post: https://paragraph.xyz/@blog/recurring-subscriptions?referrer=0x123
 - A newsletter: https://paragraph.xyz/@blog?referrer=0x123
 - Any other page: https://paragraph.xyz?referrer=0x123
 
@@ -62,7 +62,7 @@ This is a table of examples using the Optimism breakdown above:
 | Free mint, Single minter referrer | 0.000333 | 0 | 0.000111 | 0.000333 |
 | Free mint, Single creator referrer | 0.000333 | 0.000111 | 0 | 0.000333 |
 | Paid mint, no referrers | 0.000333 | 0 | 0 | 0.000444 |
-| Paid mint, both referrers | 0.000333 | 0.000111 | 0.000111 | 0.000333 |
+| Paid mint, both referrers | 0.000333 | 0.000111 | 0.000111 | 0.000222 |
 
 ## Caveats
 

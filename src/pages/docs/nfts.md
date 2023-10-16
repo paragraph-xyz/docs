@@ -35,7 +35,6 @@ Paragraph offers several different types of collectibles you can take advantage 
 * **Embedded Collectibles**: Mint whatever you want - images, audio, video - as NFTs, and embed them directly into your posts for your readers to collect.
 
 
-
 ### Collectible Highlights
 
 Allow readers to save and own any part of your posts by highlighting a sentence or paragraph and minting it as an NFT.
@@ -75,9 +74,9 @@ You can find the contracts for our factory deployers below:
 
 |  | Testnet | Mainnet
 | --- | --- | --- |
-| Base | 0x8c9DccABA872Ed195F7F65361f32264c5a5C82e2 | 0x014c0C24da934fe3349819318CF1a96cAD14299C |
-| Optimism | 0xb8Cd74bc2326Db73F3D7a406cFE2f7139D04dE06 | 0x593771B71Dd677a00860F6162796B1074215514b |
-| Polygon | 0x9D4d5dA7e19c8D9678C29Fe94709187dc68d3C95 | 0x29142d42de08C32d4652803D1036078d008d1352 |
+| Base | 0xBf9a34ba9826b37A4765D8f6243E00B8071894C1 | 0xa67aF90812F57Fd53dfDD223812C21Af228D63eF |
+| Optimism | 0xb8Cd74bc2326Db73F3D7a406cFE2f7139D04dE06 | 0x98a978e10b050b518694804a5A772c6f143D16B7 |
+| Polygon | 0x9D4d5dA7e19c8D9678C29Fe94709187dc68d3C95 | 0xa67aF90812F57Fd53dfDD223812C21Af228D63eF |
 
 We call the `createAndMint` methods on these contracts which deploys a new smart contract ERC721 lazily, mints the first NFT to the minter, and transfers ownership of the smart contract to the Paragraph creator.
 
