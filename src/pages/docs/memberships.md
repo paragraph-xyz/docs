@@ -3,7 +3,7 @@ title: Memberships
 description: Monetize your Paragraph newsletter with NFT-backed recurring memberships.
 ---
 
-Create free or paid membersips to offer benefits to your subscribers and begin monetizing with recurring payments.
+Create free or paid memberships to offer benefits to your subscribers and begin monetizing with recurring payments.
 
 ---
 
