@@ -76,6 +76,7 @@ You can find the contracts for our factory deployers below:
 | --- | --- | --- |
 | Base | 0xBf9a34ba9826b37A4765D8f6243E00B8071894C1 | 0x9Bf9D0D88C1A835F1052Ef0FBa325b35bBea127a |
 | Optimism | 0xb8Cd74bc2326Db73F3D7a406cFE2f7139D04dE06 | 0x584DfE9780C962e0A48fe09D353CbAa62e67C309 |
+| Zora | 0x87f148110af5F1A08CaE79e39982b51abC17F91c |  0x88e6b1341EFA068348b8177F2E59E900CC6D864b |
 | Polygon | 0x9D4d5dA7e19c8D9678C29Fe94709187dc68d3C95 | 0x3285cE203B073bd009200Dfd416a8fD6DF155A57 |
 
 We call the `createAndMint` methods on these contracts which deploys a new smart contract ERC721 lazily, mints the first NFT to the minter, and transfers ownership of the smart contract to the Paragraph creator.
