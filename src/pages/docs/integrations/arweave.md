@@ -52,4 +52,4 @@ We store the static HTML of the post, as well as the [TipTap](https://github.com
 
 ## Example Repo
 
-This repo from @PirosB3 shows how to query Arweave for new Paragraph posts, and cross-post them to Farcaster: https://github.com/PirosB3/Paragraph-Farcaster-xposter
+This repo from @PirosB3 shows how to query Arweave for new Paragraph posts, and cross-post them to Farcaster: [https://github.com/PirosB3/Paragraph-Farcaster-xposter](https://github.com/PirosB3/Paragraph-Farcaster-xposter)
