@@ -7,7 +7,7 @@ Create free or paid memberships to offer benefits to your subscribers and begin 
 
 ---
 
-# Memberships on Paragraph
+## Memberships on Paragraph
 
 Paragraph enables you to create _memberships_ for your newsletter. Memberships allow you to grant additional benefits and perks to your subscribers, and can optionally be backed by NFTs.
 
@@ -19,13 +19,13 @@ All publications also have a _membership_ page, accessible at /memberships (for 
 
 ![Paragraph memberships](/img/membership.png)
 
-## Paid memberships
+### Paid memberships
 
 In order to begin accepting payment for your memberships, you need to connect your Paragraph account with Stripe. You can do so in your [publication settings](https://paragraph.xyz/settings/publication/memberships-token-gating).
 
 After connecting with Stripe you'll be able to create paid memberships and charge a monthly or yearly fee to join. You can create any number of premium membership tiers, offering different perks at different pricepoints.
 
-## NFT-backed memberships
+### NFT-backed memberships
 
 You can associate each membership with an NFT, which will stay active for as long as a reader's subscription is active. When the reader's subscription expires, the NFT metadata changes - the 'active' attribute is set to 'false', and the NFT name is appended with [EXPIRED].
 
@@ -35,7 +35,7 @@ To create an NFT-backed membership, check the 'NFT' checkbox when creating a mem
 
 When users upgrade to a paid membership, they'll be prompted to connect a wallet and claim the membership NFT. We airdrop the NFT directly to their wallet, so they won't need to cover gas. (When they connect their wallet, it gets added to their account, meaning you can also send them wallet-based newsletters!).
 
-## Future improvements
+### Future improvements
 
 This is the first iteration of what's to come. Within the next few months, memberships will be:
 
@@ -45,10 +45,7 @@ This is the first iteration of what's to come. Within the next few months, membe
 
 Stay tuned for more!
 
-# Importing paid subscribers
 
-In your [Paragraph settings](https://paragraph.xyz/settings/publication/import-export), you can import paid subscribers from other platforms on your currently-connected Stripe account.
-
-# Any other questions?
+## Any other questions?
 
 We'd love to help you get set up. Reach out to hello@paragraph.xyz with any other questions or comments!
