@@ -28,7 +28,7 @@ We support importing content from Wordpress, with many other platforms (includin
 
 1. Export your Wordpress posts.  You should have an XML file which contains xRSS data for all your posts.
 2. Navigate to the Paragraph [Import/Export page](https://paragraph.xyz/settings/publication/import-export). Paste in your Wordpress RSS feed URL (which is often your Wordpress URL with /feed at the end).
-3. Upload your .XML file
+3. Upload your .XML file.
 4. Finally, acknowledge the content guidelines for importing posts, and import into your publication.
 
 Images will get re-uploaded to Paragraph, and all other formatting should _generally_ be preserved.
