@@ -27,7 +27,7 @@ After connecting Stripe to your Paragraph account, navigate to the Paragraph [Im
 We support importing content from Wordpress, with many other platforms (including Mirror and Substack) coming soon. Follow these instructions to import posts:
 
 1. Export your Wordpress posts.  You should have an XML file which contains xRSS data for all your posts.
-2. Navigate to the Paragraph [Import/Export page](https://paragraph.xyz/settings/publication/import-export). Paste in your Wordpress RSS feed URL (which is often your Wordpress URL with /feed at the end)
+2. Navigate to the Paragraph [Import/Export page](https://paragraph.xyz/settings/publication/import-export). Paste in your Wordpress RSS feed URL (which is often your Wordpress URL with /feed at the end).
 3. Upload your .XML file
 4. Finally, acknowledge the content guidelines for importing posts, and import into your publication.
 
