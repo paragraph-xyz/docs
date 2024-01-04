@@ -19,7 +19,7 @@ After connecting your Stripe account, you will see the option to manage your acc
 
 ## Crypto
 
-Navigate to the [Memberships & Gating page](https://paragraph.xyz/settings/publication/memberships-token-gating) and connect a wallet to Loop to begin accepting crypto recurring payments for paid memberships.
+Navigate to the [Memberships & Gating page](https://paragraph.xyz/settings/publication/memberships-token-gating) and connect a wallet to Loop to begin accepting crypto recurring payments for paid memberships. After connecting to Loop for the first time, you will receive an email to activate your Loop account and set a password. This is the login you will use later if you want to manage your Loop account.
 
 ![Connect Loop](/img/loop-connect.png)
 
