@@ -3,17 +3,17 @@ title: Accept recurring payments for your newsletter
 description: Accept FIAT or crypto recurring payments for your newsletter.
 ---
 
-We support collecting recurring payments for your newsletter in both FIAT and crypto.
+We support collecting recurring payments for your newsletter in both fiat and crypto.
 
 ---
 
-## FIAT
+## Fiat
 
-Navigate to the [Memberships & Gating page](https://paragraph.xyz/settings/publication/memberships-token-gating) and connect a Stripe account to begin accepting FIAT recurring payments for paid memberships.
+Navigate to the [Memberships & Gating page](https://paragraph.xyz/settings/publication/memberships-token-gating) and connect a Stripe account to begin accepting fiat recurring payments for paid memberships.
 
 ![Connect Stripe](/img/stripe-connect.png)
 
-After connecting your Stripe account, you will see the option to manage your account which allows you to view your customers, invoices, etc in the Stripe dashboard as well as the option to disconnect your account which will disable the FIAT recurring payment option.
+After connecting your Stripe account, you will see the option to manage your account which allows you to view your customers, invoices, etc in the Stripe dashboard as well as the option to disconnect your account which will disable the fiat recurring payment option.
 
 ![Manage Stripe](/img/stripe-manage.png)
 
