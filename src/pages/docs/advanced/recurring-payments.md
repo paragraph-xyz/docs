@@ -25,7 +25,7 @@ Navigate to the [Memberships & Gating page](https://paragraph.xyz/settings/publi
 
 ![Connect Loop](/img/loop-connect.png)
 
-After connecting to Loop, you will see the option to manage your account which allows you to view your customers, invoices, etc in the Loop dashboard, inputs to update your payment wallet and accepted networks and tokens, as well as the option to disconnect your account which will disable the crypto recurring payment option.
+After connecting to Loop, you will see the option to manage your account which allows you to view your customers, invoices, etc. in the Loop dashboard, inputs to update your payment wallet and accepted networks and tokens, as well as the option to disconnect your account which will disable the crypto recurring payment option.
 
 ![Manage Loop](/img/loop-manage.png)
 
