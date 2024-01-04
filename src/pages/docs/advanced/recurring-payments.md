@@ -1,18 +1,32 @@
 ---
-title: Accept recurring payments for your token-gated newsletter
-description: We partner with Unlock Protocol to bring recurring payments to your newsletter.
+title: Accept recurring payments for your newsletter
+description: Accept fiat or crypto recurring payments for your newsletter.
 ---
 
-We support using Unlock Protocol NFTs, so you can configure & accept recurring payments for your token-gated newsletter.
+We support collecting recurring payments for your newsletter in both fiat and crypto. You can choose to enable either or both of these options. If you have both fiat and crypto enabled, users can choose which one to pay with when subscribing.
 
 ---
 
-Connect your wallet to [Unlock Protocol](https://unlock-protocol.com).
+## Fiat
 
-Deploy a new Lock contract, then update your Lock settings to enable Renewals.
+Navigate to the [Memberships & Gating page](https://paragraph.xyz/settings/publication/memberships-token-gating) and connect a [Stripe](https://stripe.com/) account to begin accepting fiat recurring payments for paid memberships.
 
-![Unlock Protocol renewals](/img/unlock_renewals.png)
+![Connect Stripe](/img/stripe-connect.png)
 
-We also encourage generating an Unlock Protocol checkout URL, to allow users to purchase your Unlock Protocol recurring subscription.
+After connecting your Stripe account, you will see the option to manage your account which allows you to view your customers, invoices, etc. in the Stripe dashboard as well as the option to disconnect your account which will disable the fiat recurring payment option.
 
-Now, use the lock contract address to [token-gate your newsletter on Paragraph](/docs/token-gated-content) (ensuring you also include the Unlock checkout URL here), and you can now accept recurring subscriptions from your readers!
+![Manage Stripe](/img/stripe-manage.png)
+
+## Crypto
+
+Navigate to the [Memberships & Gating page](https://paragraph.xyz/settings/publication/memberships-token-gating) and connect a wallet to [Loop](https://www.loopcrypto.xyz/) to begin accepting crypto recurring payments for paid memberships. After connecting to Loop for the first time, you will receive an email to activate your Loop account and set a password. This is the login you will use later if you want to manage your Loop account.
+
+**An email is not required to use crypto payments but you will not get a Loop account that gives you access to the Loop dashboard.**
+
+![Connect Loop](/img/loop-connect.png)
+
+After connecting to Loop, you will see the option to manage your account which allows you to view your customers, invoices, etc. in the Loop dashboard, inputs to update your payment wallet and accepted networks and tokens, as well as the option to disconnect your account which will disable the crypto recurring payment option.
+
+![Manage Loop](/img/loop-manage.png)
+
+The enable networks and tokens toggle lists above control what networks and ERC20s that users can pay with. When users subscribe to a recurring paid membership of yours, they'll need to pay with one of these ERC20s, with the actual token being sent to the payment wallet you specified in your dashboard.
