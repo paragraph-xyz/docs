@@ -13,7 +13,7 @@ Navigate to the [Memberships & Gating page](https://paragraph.xyz/settings/publi
 
 ![Connect Stripe](/img/stripe-connect.png)
 
-After connecting your Stripe account, you will see the option to manage your account which allows you to view your customers, invoices, etc in the Stripe dashboard as well as the option to disconnect your account which will disable the fiat recurring payment option.
+After connecting your Stripe account, you will see the option to manage your account which allows you to view your customers, invoices, etc. in the Stripe dashboard as well as the option to disconnect your account which will disable the fiat recurring payment option.
 
 ![Manage Stripe](/img/stripe-manage.png)
 
