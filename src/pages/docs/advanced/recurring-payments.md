@@ -9,7 +9,7 @@ We support collecting recurring payments for your newsletter in both fiat and cr
 
 ## Fiat
 
-Navigate to the [Memberships & Gating page](https://paragraph.xyz/settings/publication/memberships-token-gating) and connect a Stripe account to begin accepting fiat recurring payments for paid memberships.
+Navigate to the [Memberships & Gating page](https://paragraph.xyz/settings/publication/memberships-token-gating) and connect a [Stripe](https://stripe.com/) account to begin accepting fiat recurring payments for paid memberships.
 
 ![Connect Stripe](/img/stripe-connect.png)
 
@@ -19,7 +19,7 @@ After connecting your Stripe account, you will see the option to manage your acc
 
 ## Crypto
 
-Navigate to the [Memberships & Gating page](https://paragraph.xyz/settings/publication/memberships-token-gating) and connect a wallet to Loop to begin accepting crypto recurring payments for paid memberships. After connecting to Loop for the first time, you will receive an email to activate your Loop account and set a password. This is the login you will use later if you want to manage your Loop account.
+Navigate to the [Memberships & Gating page](https://paragraph.xyz/settings/publication/memberships-token-gating) and connect a wallet to [Loop](https://www.loopcrypto.xyz/) to begin accepting crypto recurring payments for paid memberships. After connecting to Loop for the first time, you will receive an email to activate your Loop account and set a password. This is the login you will use later if you want to manage your Loop account.
 
 **An email is not required to use crypto payments but you will not get a Loop account that gives you access to the Loop dashboard.**
 
