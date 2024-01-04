@@ -21,11 +21,11 @@ All publications also have a _membership_ page, accessible at /memberships (for 
 
 ### Paid memberships
 
-In order to begin accepting payment for your memberships, you need to connect your Paragraph account with Stripe (for FIAT payments) and/or Loopcrypto (for crypto payments). You can do so in your [publication settings](https://paragraph.xyz/settings/publication/memberships-token-gating).
+In order to begin accepting payment for your memberships, you need to connect your Paragraph account with Stripe (for fiat payments) and/or Loop (for crypto payments). You can do so in your [publication settings](https://paragraph.xyz/settings/publication/memberships-token-gating).
 
-After connecting with Stripe and/or Loopcrypto, you'll be able to create paid memberships and charge a monthly or yearly fee to join. You can create any number of premium membership tiers, offering different perks at different pricepoints.
+After connecting with Stripe and/or Loop, you'll be able to create paid memberships and charge a monthly or yearly fee to join. You can create any number of premium membership tiers, offering different perks at different pricepoints.
 
-For more information about [recurring payments](advanced/recurring-payments).
+For more information about recurring payments, click [here](advanced/recurring-payments).
 
 ### NFT-backed memberships
 
@@ -41,7 +41,6 @@ When users upgrade to a paid membership, they'll be prompted to connect a wallet
 
 This is the first iteration of what's to come. Within the next few months, memberships will be:
 
-- Purchasable using fiat or crypto.
 - One-off payments will be possible, not just recurring.
 - Memberships can be in limited quantity.
 

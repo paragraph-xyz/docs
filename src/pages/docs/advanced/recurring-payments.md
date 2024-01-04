@@ -1,9 +1,9 @@
 ---
 title: Accept recurring payments for your newsletter
-description: Accept FIAT or crypto recurring payments for your newsletter.
+description: Accept fiat or crypto recurring payments for your newsletter.
 ---
 
-We support collecting recurring payments for your newsletter in both fiat and crypto.
+We support collecting recurring payments for your newsletter in both fiat and crypto. You can choose to enable either or both of these options. If you have both fiat and crypto enabled, users can choose which one to pay with when subscribing.
 
 ---
 
@@ -28,3 +28,5 @@ Navigate to the [Memberships & Gating page](https://paragraph.xyz/settings/publi
 After connecting to Loop, you will see the option to manage your account which allows you to view your customers, invoices, etc in the Loop dashboard, inputs to update your payment wallet and accepted networks and tokens, as well as the option to disconnect your account which will disable the crypto recurring payment option.
 
 ![Manage Loop](/img/loop-manage.png)
+
+The enable networks and tokens toggle lists above control what networks and ERC20s that users can pay with. When users subscribe to a recurring paid membership of yours, they'll need to pay with one of these ERC20s, with the actual token being sent to the payment wallet you specified in your dashboard.
