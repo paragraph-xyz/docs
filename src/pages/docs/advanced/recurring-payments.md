@@ -1,18 +1,28 @@
 ---
-title: Accept recurring payments for your token-gated newsletter
-description: We partner with Unlock Protocol to bring recurring payments to your newsletter.
+title: Accept recurring payments for your newsletter
+description: Accept FIAT or crypto recurring payments for your newsletter.
 ---
 
-We support using Unlock Protocol NFTs, so you can configure & accept recurring payments for your token-gated newsletter.
+We support collecting recurring payments for your newsletter in both FIAT and crypto.
 
 ---
 
-Connect your wallet to [Unlock Protocol](https://unlock-protocol.com).
+## FIAT
 
-Deploy a new Lock contract, then update your Lock settings to enable Renewals.
+Navigate to the [Memberships & Gating page](https://paragraph.xyz/settings/publication/memberships-token-gating) and connect a Stripe account to begin accepting FIAT recurring payments for paid memberships.
 
-![Unlock Protocol renewals](/img/unlock_renewals.png)
+![Connect Stripe](/img/stripe-connect.png)
 
-We also encourage generating an Unlock Protocol checkout URL, to allow users to purchase your Unlock Protocol recurring subscription.
+After connecting your Stripe account, you will see the option to manage your account which allows you to view your customers, invoices, etc in the Stripe dashboard as well as the option to disconnect your account which will disable the FIAT recurring payment option.
 
-Now, use the lock contract address to [token-gate your newsletter on Paragraph](/docs/token-gated-content) (ensuring you also include the Unlock checkout URL here), and you can now accept recurring subscriptions from your readers!
+![Manage Stripe](/img/stripe-manage.png)
+
+## Crypto
+
+Navigate to the [Memberships & Gating page](https://paragraph.xyz/settings/publication/memberships-token-gating) and connect a wallet to Loop to begin accepting crypto recurring payments for paid memberships.
+
+![Connect Loop](/img/loop-connect.png)
+
+After connecting to Loop, you will see the option to manage your account which allows you to view your customers, invoices, etc in the Loop dashboard, inputs to update your payment wallet and accepted networks and tokens, as well as the option to disconnect your account which will disable the crypto recurring payment option.
+
+![Manage Loop](/img/loop-manage.png)
