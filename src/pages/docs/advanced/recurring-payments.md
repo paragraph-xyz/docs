@@ -30,3 +30,21 @@ After connecting to Loop, you will see the option to manage your account which a
 ![Manage Loop](/img/loop-manage.png)
 
 The enable networks and tokens toggle lists above control what networks and ERC20s that users can pay with. When users subscribe to a recurring paid membership of yours, they'll need to pay with one of these ERC20s, with the actual token being sent to the payment wallet you specified in your dashboard.
+
+## Discounts
+
+After enabling paid memberships, you will have the option to create discounts for these paid memberships. There are two types of discounts; coupons, and trials. Both types of discounts support setting an expiration date after which the discount is no longer redeemable by new subscribers. After creating a discount, you can share it by clicking on the copy button in it's respective row which will copy the special memberships page link to your clipboard.
+
+![Discount on memberships page](/img/discounts-memberships.png)
+
+### Coupons
+
+A coupon allows a subscriber to purchase a membership at a reduced price (e.g. 50% off).
+
+![Add Coupon](/img/discounts-coupon.png)
+
+### Trials
+
+A trial allows a subscriber to subscribe to a paid membership for free for a determined period (e.g. 1 week free trial).
+
+![Add Trial](/img/discounts-trial.png)
