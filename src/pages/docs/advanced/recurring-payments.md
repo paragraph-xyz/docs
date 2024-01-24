@@ -33,7 +33,7 @@ The enable networks and tokens toggle lists above control what networks and ERC2
 
 ## Discounts
 
-After enabling paid memberships, you will have the option to create discounts for these paid memberships. There are two types of discounts; coupons, and trials. Both types of discounts support setting an expiration date after which the discount is no longer redeemable by new subscribers. After creating a discount, you can share it by clicking on the copy button in it's respective row which will copy the special memberships page link to your clipboard.
+After enabling paid memberships, you will have the option to create discounts for these paid memberships. There are two types of discounts: coupons, and trials. Both types of discounts support setting an expiration date after which the discount is no longer redeemable by new subscribers. After creating a discount, you can share it by clicking on the copy button in it's respective row which will copy the special memberships page link to your clipboard.
 
 ![Discount on memberships page](/img/discounts-memberships.png)
 
