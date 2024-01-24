@@ -45,6 +45,6 @@ A coupon allows a subscriber to purchase a membership at a reduced price (e.g. 5
 
 ### Trials
 
-A trial allows a subscriber to subscribe to a paid membership for free for a determined period (e.g. 1 week free trial).
+A trial allows a subscriber to subscribe to a paid membership for free for a specific period (e.g. 1 week free trial).
 
 ![Add Trial](/img/discounts-trial.png)
