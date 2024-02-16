@@ -24,12 +24,18 @@ After connecting Stripe to your Paragraph account, navigate to the Paragraph [Im
 
 ## Importing Content
 
-We support importing content from Wordpress, with many other platforms (including Mirror and Substack) coming soon. Follow these instructions to import posts:
+We support importing content from Wordpress, Substack and Mirror. Follow these instructions to import posts from Wordpress or Substack:
 
-1. Export your Wordpress posts.  You should have an XML file which contains xRSS data for all your posts.
-2. Navigate to the Paragraph [Import/Export page](https://paragraph.xyz/settings/publication/import-export). Paste in your Wordpress RSS feed URL (which is often your Wordpress URL with /feed at the end).
-3. Upload your .XML file.
+1. Export your posts.  If migrating from Wordpress, you should have an XML file which contains xRSS data for all your posts. If migrating from Substack, you should have a .zip file.
+2. Navigate to the Paragraph [Import/Export page](https://paragraph.xyz/settings/publication/import-export). Paste in the URL of your publication.
+3. Upload your .XML or .zip file.
 4. Finally, acknowledge the content guidelines for importing posts, and import into your publication.
+
+To import from Mirror:
+
+1. Navigate to the Paragraph [Import/Export page](https://paragraph.xyz/settings/publication/import-export). Paste in the URL of your Mirror publication.
+2. We should detect your posts on Arweave, and prompt you to proceed.
+3. Finally, acknowledge the content guidelines for importing posts, and import into your publication.
 
 Images will get re-uploaded to Paragraph, and all other formatting should _generally_ be preserved.
 
