@@ -18,6 +18,7 @@ Paragraph allows you to create token-gated newsletters and content. We support t
 - Avalanche
 - Arbitrum
 - Optimism
+- Base
 
 If you don't have an existing token, no problem - you can mint your own NFT on Paragraph for **0 gas fees**, and use this to token-gate.
 
