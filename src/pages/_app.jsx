@@ -14,6 +14,7 @@ const navigation = [
   {
     title: 'Core Concepts',
     links: [
+      { title: 'Migrating to Paragraph', href: '/docs/migrating-to-paragraph' },
       { title: 'Publishing', href: '/docs/creating-posts' },
       { title: 'Sending Newsletters', href: '/docs/sending-newsletters' },
       {
@@ -21,7 +22,6 @@ const navigation = [
         href: '/docs/customizing-your-publication',
       },
       { title: 'Adding Team Members', href: '/docs/adding-team-members' },
-      { title: 'Getting Subscribers', href: '/docs/getting-subscribers' },
       { title: 'Collectibles', href: '/docs/nfts' },
       {
         title: 'Legacy paid memberships',
@@ -34,7 +34,7 @@ const navigation = [
     title: 'Advanced Concepts',
     links: [
       {
-        title: 'Create a referral program',
+        title: 'Referral rewards',
         href: '/docs/advanced/referral-program',
       },
     ],
@@ -47,6 +47,10 @@ const navigation = [
       {
         title: 'Reading Paragraph posts from Arweave',
         href: '/docs/integrations/arweave',
+      },
+      {
+        title: 'Farcaster',
+        href: '/docs/integrations/farcaster',
       },
     ],
   },

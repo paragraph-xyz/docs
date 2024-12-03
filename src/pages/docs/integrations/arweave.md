@@ -49,3 +49,7 @@ curl 'https://arweave.net/graphql' -H 'Accept-Encoding: gzip, deflate, br' -H 'C
 Then, given the resulting transaction ID, use the [Arweave JS SDK](https://github.com/ArweaveTeam/arweave-js) to retrieve the JSON data.
 
 We store the static HTML of the post, as well as the [TipTap](https://github.com/ueberdosis/tiptap) JSON. We also store a lot of other metadata about the post, including the time it was published, assciated categories, etc.
+
+## Example Repo
+
+This repo from @PirosB3 shows how to query Arweave for new Paragraph posts, and cross-post them to Farcaster: [https://github.com/PirosB3/Paragraph-Farcaster-xposter](https://github.com/PirosB3/Paragraph-Farcaster-xposter)
