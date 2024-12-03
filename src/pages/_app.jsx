@@ -23,7 +23,10 @@ const navigation = [
       { title: 'Adding Team Members', href: '/docs/adding-team-members' },
       { title: 'Getting Subscribers', href: '/docs/getting-subscribers' },
       { title: 'Collectibles', href: '/docs/nfts' },
-      { title: 'Token-gating', href: '/docs/token-gated-content' },
+      {
+        title: 'Legacy paid memberships',
+        href: '/docs/gating-memberships-deprecation',
+      },
     ],
   },
 
@@ -34,29 +37,13 @@ const navigation = [
         title: 'Create a referral program',
         href: '/docs/advanced/referral-program',
       },
-      {
-        title: 'Streaming payments',
-        href: '/docs/advanced/streaming-payments',
-      },
-      {
-        title: 'Recurring payments',
-        href: '/docs/advanced/recurring-payments',
-      },
     ],
   },
 
   {
     title: 'Integrations',
     links: [
-      {
-        title: 'Creating memberships with Coinvise',
-        href: '/docs/integrations/coinvise',
-      },
       { title: 'Verified accounts on NF.TD', href: '/docs/integrations/nftd' },
-      {
-        title: 'Using Paragraph with Unlock Protocol',
-        href: '/docs/integrations/unlock-protocol',
-      },
       {
         title: 'Reading Paragraph posts from Arweave',
         href: '/docs/integrations/arweave',
