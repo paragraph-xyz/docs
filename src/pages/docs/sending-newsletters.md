@@ -17,15 +17,13 @@ When a reader replies to your email, it gets delivered to your personal email on
 
 If you're publishing [in a community](/docs/creating-posts#communities), only users that subscribed to that community will receive your newsletter. (By default, when a user subscribes to your newsletter, they'll be subscribed to all communities).
 
-If your community is [token-gated,](/docs/token-gated-content) your readers need to hold your required tokens in order to receive the newsletter. This is checked every time a newsletter is delivered (at delivery-time), ensuring that your readers truly hold the requiured tokens for access.
-
 ## Wallet Newsletter Delivery
 
 In addition to email, we also give you the option of delivering your newsletter to your readers' wallets. We use [XMTP](https://xmtp.org/) for delivering newsletters in a completely decentralized & censorship-resistant way.
 
 Your readers can subscribe to your publication with their wallet. Even if you don't enable wallet subscriptions on your publication, any Paragraph user can add their wallet to their account, and will then be able to receive newsletters via wallet.
 
-You can use the community & token-gating functionality alongside wallet newsletter delivery, meaning that you can send token-gated posts directly to wallets; or segment your subscribers and deliver relevant content to the right segments.
+You can use the communities & segments functionality alongside wallet newsletter delivery, meaning that you can send posts directly to wallets; or segment your subscribers and deliver relevant content to the right segments.
 
 We don't currently deliver the _entire_ post via XMTP: we instead deliver a short message that includes the URL of your post, the title of your publication & post, and your post preview. Messages are received by the `paragraph-xyz` ENS.
 

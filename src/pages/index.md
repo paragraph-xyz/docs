@@ -4,7 +4,7 @@ pageTitle: Paragraph - Web3 newsletters & publishing
 description: Learn how to publish
 ---
 
-Welcome to Paragraph. This documentation teaches you everything you need to know about creating a Web3 newsletter, building your community, and token-gating access to your content. {% .lead %}
+Welcome to Paragraph. This documentation teaches you everything you need to know about creating a Web3 newsletter, building your community, and collectibles on Paragraph. {% .lead %}
 
 {% link-grid %}
 
@@ -13,8 +13,6 @@ Welcome to Paragraph. This documentation teaches you everything you need to know
 {% link-grid-link title="Send newsletters" icon="presets" href="/docs/sending-newsletters" description="Learn how newsletter delivery works." /%}
 
 {% link-grid-link title="Customize your publication" icon="plugins" href="/docs/customizing-your-publication" description="Get a custom domain, set up analytics, or change your theme." /%}
-
-{% link-grid-link title="Token-gate your content" icon="theming" href="/docs/token-gated-content" description="Use an existing NFT, or mint your own, and send token-gated newsletters." /%}
 
 {% /link-grid %}
 
