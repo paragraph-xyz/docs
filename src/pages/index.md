@@ -14,8 +14,6 @@ Welcome to Paragraph. This documentation teaches you everything you need to know
 
 {% link-grid-link title="Customize your publication" icon="plugins" href="/docs/customizing-your-publication" description="Get a custom domain, set up analytics, or change your theme." /%}
 
-{% link-grid-link title="Legacy paid memberships" icon="theming" href="/docs/gating-memberships-deprecation" description="Changes to Paid Memberships and Token-Gating Features." /%}
-
 {% /link-grid %}
 
 Any feedback or feature requests? Drop by our [Discord](https://paragraph.xyz/discord) or email [hello@paragraph.xyz](mailto:hello@paragraph.xyz).

@@ -11,7 +11,6 @@ Using Paragraph, you can publish content to a blog/newsletter.
 
 Create new posts in your [dashboard](https://paragraph.xyz/notes). Click `New post` and begin typing.
 
-
 ![Images](/img/editor.png)
 
 Within your dashboard, you can add a title, categories, or body text.
@@ -34,16 +33,14 @@ Communities are a way to sub-divide your newsletter. You can create a community 
 
 When users subscribe to your newsletter, by default they'll be subscribed to all communities, but they can self-select the communities they'd like to be a part of.
 
-You can even [token-gate](/docs/token-gated-content) individual communities!
-
 ## SEO
 
 Paragraph is heavily optimized for SEO, which will help your publication get discovered on search engines.
 
-* We render everything statically. This means ultra-fast page loading, and no need to pull in information via APIs on page load.
-* All uploaded images are properly resized and optimized using [next/image](https://nextjs.org/docs/api-reference/next/image). On page load before the image is rendered, they're blurred, preventing layout shift.
-* Unlike other newsletter platforms, we host all content on the top-level https://paragraph.xyz domain (rather than a https://yourname.paragraph.xyz subdomain. This means Paragraph's SEO ranking gets shared with your newsletters.
-* We auto-generate meta tags and social text, but you can specify your own in every post to further customize.
-* We auto-generate a descriptive post slug (URL structure is important for SEO ranking). You can optionally specify your own.
-* We link all posts in our sitemap, exposing them to web crawlers.
-* We've optimized cumulative layout shift (CLS), largest contentful paint (LCP), and other core web vitals, all of which are important to crawlers.
+- We render everything statically. This means ultra-fast page loading, and no need to pull in information via APIs on page load.
+- All uploaded images are properly resized and optimized using [next/image](https://nextjs.org/docs/api-reference/next/image). On page load before the image is rendered, they're blurred, preventing layout shift.
+- Unlike other newsletter platforms, we host all content on the top-level https://paragraph.xyz domain (rather than a https://yourname.paragraph.xyz subdomain. This means Paragraph's SEO ranking gets shared with your newsletters.
+- We auto-generate meta tags and social text, but you can specify your own in every post to further customize.
+- We auto-generate a descriptive post slug (URL structure is important for SEO ranking). You can optionally specify your own.
+- We link all posts in our sitemap, exposing them to web crawlers.
+- We've optimized cumulative layout shift (CLS), largest contentful paint (LCP), and other core web vitals, all of which are important to crawlers.

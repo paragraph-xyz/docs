@@ -23,10 +23,6 @@ const navigation = [
       },
       { title: 'Adding Team Members', href: '/docs/adding-team-members' },
       { title: 'Collectibles', href: '/docs/nfts' },
-      {
-        title: 'Legacy paid memberships',
-        href: '/docs/gating-memberships-deprecation',
-      },
     ],
   },
 
@@ -59,7 +55,6 @@ const navigation = [
     title: 'Developers',
     links: [
       { title: 'Building on top of Paragraph', href: '/docs/development' },
-      { title: 'Paragraph Link', href: '/docs/link' },
     ],
   },
 ]
