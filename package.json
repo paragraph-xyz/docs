@@ -2,6 +2,10 @@
   "name": "tailwindui-documentation",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=20.18.0",
+    "yarn": "3.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",

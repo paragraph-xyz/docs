@@ -27,16 +27,6 @@ const navigation = [
   },
 
   {
-    title: 'Advanced Concepts',
-    links: [
-      {
-        title: 'Referral rewards',
-        href: '/docs/advanced/referral-program',
-      },
-    ],
-  },
-
-  {
     title: 'Integrations',
     links: [
       { title: 'Verified accounts on NF.TD', href: '/docs/integrations/nftd' },

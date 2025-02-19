@@ -55,7 +55,7 @@ When publishing a post, you can upload an image to be used as the NFT artwork fo
 
 ### Fees & Rewards
 
-Collectibles are entirely free for creators, but we charge a fee for collectors. The fee may be divided up amongst several users (including the creator, Paragraph, and referrers). Read more about referral rewards here: [https://docs.paragraph.xyz/docs/advanced/referral-program](https://docs.paragraph.xyz/docs/advanced/referral-program)
+Collectibles are entirely free for creators, but we charge a fee for collectors. The fee may be divided up amongst both the creator and Paragraph.
 
 ### Contracts
 
