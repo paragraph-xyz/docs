@@ -3,7 +3,7 @@ title: Coins
 description: Coin your writing to unlock new ways of creation, engagement and monetization.
 ---
 
-Coin your writing on Paragraph, turning it into a unique digital asset that can be collected, traded, and appreciated. Coins are a way to reward your readers and create a new layer of interaction with your content.
+Coin your writing on Paragraph, turning it into a unique digital asset that can be collected, traded, and appreciated. Coins are a new way for writers to engage with their audience, earn from their best ideas, and create a community around their work.
 
 And, for readers, coins are a way to support your favorite writers, collect unique pieces of content, and amplify ideas that resonates with you.
 
