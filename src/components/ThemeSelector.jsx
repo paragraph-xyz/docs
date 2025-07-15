@@ -62,16 +62,16 @@ export function ThemeSelector(props) {
     if (selectedTheme) {
       document.documentElement.setAttribute('data-theme', selectedTheme.value)
       if (selectedTheme.value === 'dark') {
-        imglogo(<LogoLight className="h-12 w-auto" />)
+        imglogo(<Logo className="h-6 w-auto" />)
       } else if (selectedTheme.value === 'light') {
-        imglogo(<Logo className="h-12 w-auto" />)
+        imglogo(<Logo className="h-6 w-auto" />)
       } else if (
         window.matchMedia &&
         window.matchMedia('(prefers-color-scheme: dark)').matches
       ) {
-        imglogo(<LogoLight className="h-12 w-auto" />)
+        imglogo(<Logo className="h-6 w-auto" />)
       } else {
-        imglogo(<Logo className="h-12 w-auto" />)
+        imglogo(<Logo className="h-6 w-auto" />)
       }
     } else {
       setSelectedTheme(

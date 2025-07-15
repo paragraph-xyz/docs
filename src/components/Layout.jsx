@@ -4,7 +4,6 @@ import { useRouter } from 'next/router'
 import clsx from 'clsx'
 
 import  { Logo  } from '@/components/Logo'
-import { LogoLight } from './LogoLight'
 import { MobileNavigation } from '@/components/MobileNavigation'
 import { Navigation } from '@/components/Navigation'
 import { Prose } from '@/components/Prose'
@@ -31,9 +30,9 @@ function Header({ navigation }) {
       window.matchMedia &&
       window.matchMedia('(prefers-color-scheme: dark)').matches
     ) {
-      setImgLogo(<LogoLight className="h-12 w-auto" />)
+      setImgLogo(<Logo className="h-4 w-auto" />)
     } else {
-      setImgLogo(<Logo className="h-12 w-auto" />)
+      setImgLogo(<Logo className="h-4 w-auto" />)
     }
   }, [])
 
