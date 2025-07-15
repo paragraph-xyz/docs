@@ -3,9 +3,9 @@ import clsx from 'clsx'
 
 const styles = {
   primary:
-    'rounded-full bg-sky-300 py-2 px-4 text-sm font-semibold text-slate-900 hover:bg-sky-200 active:bg-sky-500 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-sky-300/50',
+    'rounded-full bg-primary py-2 px-4 text-sm font-semibold text-primary-foreground hover:bg-primary/80 active:bg-primary/90 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring',
   secondary:
-    'rounded-full bg-slate-800 py-2 px-4 text-sm font-medium text-white hover:bg-slate-700 active:text-slate-400 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white/50',
+    'rounded-full bg-secondary py-2 px-4 text-sm font-medium text-secondary-foreground hover:bg-secondary/80 active:bg-secondary/90 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring',
 }
 
 export function Button({ variant = 'primary', className, ...props }) {

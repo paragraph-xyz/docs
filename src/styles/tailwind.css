@@ -32,6 +32,9 @@
   /* Button Colors */
   --button-primary: 228 93% 61%; /* cobalt-blue */
   
+  /* Link underline color - using paragraph's cobalt blue */
+  --link-underline: 228 93% 61%; /* cobalt-blue */
+  
   /* Chart Colors */
   --chart-1: 173 58% 39%;
   --chart-2: 12 76% 61%;
@@ -67,6 +70,9 @@
   
   /* Button Colors */
   --button-primary: 228 93% 61%; /* cobalt-blue */
+  
+  /* Link underline color - using paragraph's cobalt blue */
+  --link-underline: 228 93% 61%; /* cobalt-blue */
   
   /* Chart Colors - Dark Mode */
   --chart-1: 220 70% 50%;

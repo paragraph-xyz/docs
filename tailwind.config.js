@@ -70,6 +70,7 @@ module.exports = {
           5: 'hsl(var(--chart-5))',
         },
         widget: 'hsl(var(--widget))',
+        'link-underline': 'hsl(var(--link-underline))',
       },
       borderRadius: {
         lg: 'var(--radius)',
