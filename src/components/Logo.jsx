@@ -7,5 +7,5 @@ export function Logo({
   className,
 }
 ) {
-  return <img src={color === "ivory" ? "/img/paragraph_logo_ivory.png" : "/img/paragraph_logo_wood.png"} alt="Paragraph Logo" className={className + " "} />
+  return <img src={color === "ivory" ? "/img/paragraph_logo_ivory.png" : "/img/paragraph_logo_wood.png"} alt="Paragraph Logo" className={className + " h-6 w-auto"} />
 }

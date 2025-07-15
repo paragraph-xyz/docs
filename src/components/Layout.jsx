@@ -52,7 +52,7 @@ function Header({ navigation }) {
       </div>
       <div className="relative flex flex-grow basis-0 items-center">
         <Link href="/">
-          <a className="block w-10 overflow-hidden lg:w-auto">
+          <a className="block h-6 w-auto">
             <span className="sr-only">Home page</span>
             {imgLogo}
           </a>
