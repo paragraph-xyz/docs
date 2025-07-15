@@ -1,10 +1,10 @@
 ---
 title: Overview
-pageTitle: Paragraph - Web3 newsletters & publishing
+pageTitle: Paragraph - Where Ideas Thrive
 description: Learn how to publish
 ---
 
-Welcome to Paragraph. This documentation teaches you everything you need to know about creating a Web3 newsletter, building your community, and collectibles on Paragraph. {% .lead %}
+Welcome to Paragraph. This documentation teaches you everything you need to know about creating a newsletter, growing an audience, and earning on Paragraph. {% .lead %}
 
 {% link-grid %}
 
@@ -22,20 +22,16 @@ Any feedback or feature requests? Drop by our [Discord](https://paragraph.xyz/di
 
 ## Get Help & Provide Feedback
 
-Encountering issues or need additional help? No problem.
-
-### Submit Feature Requests
-
-We have a public feedback board at [https://feedback.paragraph.xyz](https://feedback.paragraph.xyz). Submit new feature requests, upvote others, and leave comments.
+Encountering issues or need additional help?
 
 ### Improve Our Documentation
 
-This documentation is 100% open source. Open a pull request on [our Github repo](https://github.com/paragraph-xyz/docs) for improvements or clarifications.
+This documentation is open source. Open a pull request on [our Github repo](https://github.com/paragraph-xyz/docs) for improvements or clarifications.
 
 ### Join The Community
 
 We love to chat!
 
-Follow us on [Twitter](https://twitter.com/paragraph_xyz) or drop by our [Discord](https://paragraph.xyz/discord) and say hello!
+Follow us on [Twitter](https://twitter.com/paragraph_xyz) and join our channel on [Farcaster](https://farcaster.xyz/~/channel/paragraph) to stay updated and join the conversation.
 
 We're also responsive via email - reach out to [hello@paragraph.xyz](mailto:hello@paragraph.xyz) and we'll get back ASAP.

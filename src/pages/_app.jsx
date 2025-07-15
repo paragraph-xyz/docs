@@ -22,14 +22,13 @@ const navigation = [
         href: '/docs/customizing-your-publication',
       },
       { title: 'Adding Team Members', href: '/docs/adding-team-members' },
-      { title: 'Collectibles', href: '/docs/nfts' },
+      { title: 'Coins', href: '/docs/coins' },
     ],
   },
 
   {
     title: 'Integrations',
     links: [
-      { title: 'Verified accounts on NF.TD', href: '/docs/integrations/nftd' },
       {
         title: 'Reading Paragraph posts from Arweave',
         href: '/docs/integrations/arweave',
