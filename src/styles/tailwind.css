@@ -5,6 +5,153 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+/* Paragraph Color System */
+:root {
+  /* Base Colors - Light Mode */
+  --background: 0 0% 100%; /* white */
+  --foreground: 55 19% 13%; /* wood */
+  --card: 0 0% 100%; /* white */
+  --card-foreground: 60 19% 6%; /* dark-wood */
+  --popover: 0 0% 100%; /* white */
+  --popover-foreground: 60 19% 6%; /* dark-wood */
+  --primary: 55 19% 13%; /* wood */
+  --primary-foreground: 0 0% 100%; /* white */
+  --secondary: 50 32% 89%; /* linen */
+  --secondary-foreground: 55 19% 13%; /* wood */
+  --muted: 45 31% 95%; /* ivory */
+  --muted-foreground: 60 1% 53%; /* grayish wood tone */
+  --accent: 50 32% 89%; /* linen */
+  --accent-foreground: 55 19% 13%; /* wood */
+  --destructive: 0 72% 51%; /* red-600 */
+  --destructive-foreground: 0 86% 97%; /* red-50 */
+  --border: 47 11% 84%; /* light gray/wood tone */
+  --input: 47 11% 84%; /* light gray/wood tone */
+  --ring: 55 19% 13%; /* wood */
+  --radius: 6px;
+  
+  /* Button Colors */
+  --button-primary: 228 93% 61%; /* cobalt-blue */
+  
+  /* Chart Colors */
+  --chart-1: 173 58% 39%;
+  --chart-2: 12 76% 61%;
+  --chart-3: 197 37% 24%;
+  --chart-4: 43 74% 66%;
+  --chart-5: 27 87% 67%;
+  
+  /* Widget */
+  --widget: 0 0% 98.4%;
+}
+
+.dark {
+  /* Base Colors - Dark Mode */
+  --background: 60 19% 6%; /* dark-wood */
+  --foreground: 0 0% 100%; /* white */
+  --card: 60 19% 6%; /* dark-wood */
+  --card-foreground: 0 0% 100%; /* white */
+  --popover: 60 19% 6%; /* dark-wood */
+  --popover-foreground: 0 0% 100%; /* white */
+  --primary: 45 31% 95%; /* ivory */
+  --primary-foreground: 55 19% 13%; /* wood */
+  --secondary: 53 11% 22%; /* wood-900 */
+  --secondary-foreground: 0 0% 100%; /* white */
+  --muted: 55 10% 21%; /* wood */
+  --muted-foreground: 60 3% 74%; /* wood-300 */
+  --accent: 51 8% 18%; /* dark gray/wood */
+  --accent-foreground: 45 31% 95%; /* ivory */
+  --destructive: 0 63% 31%; /* red-900 */
+  --destructive-foreground: 0 86% 97%; /* red-50 */
+  --border: 60 6% 30%;
+  --input: 51 8% 18%; /* dark gray/wood */
+  --ring: 50 32% 89%; /* linen */
+  
+  /* Button Colors */
+  --button-primary: 228 93% 61%; /* cobalt-blue */
+  
+  /* Chart Colors - Dark Mode */
+  --chart-1: 220 70% 50%;
+  --chart-2: 340 75% 55%;
+  --chart-3: 30 80% 55%;
+  --chart-4: 280 65% 60%;
+  --chart-5: 160 60% 45%;
+  
+  /* Widget */
+  --widget: 55 19% 13%;
+}
+
+/* Theme Color Variations */
+.theme-orange-500 {
+  --primary: 25 95% 53%;
+  --button-primary: 25 95% 53%;
+  --secondary: 25 95% 95%;
+  --secondary-foreground: 25 95% 53%;
+  --ring: 25 95% 53%;
+}
+
+.theme-rose-600 {
+  --primary: 347 77% 50%;
+  --button-primary: 347 77% 50%;
+  --secondary: 347 77% 95%;
+  --secondary-foreground: 347 77% 50%;
+  --ring: 347 77% 50%;
+}
+
+.theme-pink-500 {
+  --primary: 330 81% 60%;
+  --button-primary: 330 81% 60%;
+  --secondary: 330 81% 96%;
+  --secondary-foreground: 330 81% 60%;
+  --ring: 330 81% 60%;
+}
+
+.theme-purple-600 {
+  --primary: 271 81% 56%;
+  --button-primary: 271 81% 56%;
+  --secondary: 271 81% 96%;
+  --secondary-foreground: 271 81% 56%;
+  --ring: 271 81% 56%;
+}
+
+.theme-blue-600 {
+  --primary: 221 83% 53%;
+  --button-primary: 221 83% 53%;
+  --secondary: 221 83% 95%;
+  --secondary-foreground: 221 83% 53%;
+  --ring: 221 83% 53%;
+}
+
+.theme-sky-600 {
+  --primary: 200 98% 39%;
+  --button-primary: 200 98% 39%;
+  --secondary: 200 98% 94%;
+  --secondary-foreground: 200 98% 39%;
+  --ring: 200 98% 39%;
+}
+
+.theme-teal-600 {
+  --primary: 175 84% 32%;
+  --button-primary: 175 84% 32%;
+  --secondary: 175 84% 93%;
+  --secondary-foreground: 175 84% 32%;
+  --ring: 175 84% 32%;
+}
+
+.theme-green-600 {
+  --primary: 142 76% 36%;
+  --button-primary: 142 76% 36%;
+  --secondary: 142 76% 94%;
+  --secondary-foreground: 142 76% 36%;
+  --ring: 142 76% 36%;
+}
+
+.theme-default {
+  --primary: 228 93% 61%;
+  --button-primary: 228 93% 61%;
+  --secondary: 228 93% 95%;
+  --secondary-foreground: 228 93% 61%;
+  --ring: 228 93% 61%;
+}
+
 .prose img {
   margin-left: auto;
   margin-right: auto;
